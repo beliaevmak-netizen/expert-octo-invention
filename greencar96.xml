@@ -3513,7 +3513,7 @@
     <RunFlat>Нет</RunFlat>
     <DifferentWidthTires>Нет</DifferentWidthTires>
     <TireYear>2022</TireYear>
-    <ResidualTread>7</ResidualTread>
+    <ResidualTread>8</ResidualTread>
     <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
     <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
     <OtherDefects>Без дефектов</OtherDefects>
@@ -7487,7 +7487,7 @@
     <RunFlat>Нет</RunFlat>
     <DifferentWidthTires>Нет</DifferentWidthTires>
     <TireYear>2018</TireYear>
-    <ResidualTread>7</ResidualTread>
+    <ResidualTread>8</ResidualTread>
     <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
     <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
     <OtherDefects>Без дефектов</OtherDefects>
@@ -8309,7 +8309,7 @@
     <RunFlat>Нет</RunFlat>
     <DifferentWidthTires>Нет</DifferentWidthTires>
     <TireYear>2022</TireYear>
-    <ResidualTread>7</ResidualTread>
+    <ResidualTread>8</ResidualTread>
     <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
     <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
     <OtherDefects>Без дефектов</OtherDefects>
@@ -10014,7 +10014,7 @@
     <RunFlat>Нет</RunFlat>
     <DifferentWidthTires>Нет</DifferentWidthTires>
     <TireYear>2022</TireYear>
-    <ResidualTread>7</ResidualTread>
+    <ResidualTread>8</ResidualTread>
     <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
     <TireSideRepairQuantity>1</TireSideRepairQuantity>
     <OtherDefects>Без дефектов</OtherDefects>
@@ -12526,7 +12526,7 @@
     <RunFlat>Нет</RunFlat>
     <DifferentWidthTires>Нет</DifferentWidthTires>
     <TireYear>2022</TireYear>
-    <ResidualTread>5</ResidualTread>
+    <ResidualTread>8</ResidualTread>
     <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
     <TireSideRepairQuantity>1</TireSideRepairQuantity>
     <OtherDefects>Без дефектов</OtherDefects>
@@ -15629,7 +15629,7 @@
     <RunFlat>Нет</RunFlat>
     <DifferentWidthTires>Нет</DifferentWidthTires>
     <TireYear>2022</TireYear>
-    <ResidualTread>5</ResidualTread>
+    <ResidualTread>8</ResidualTread>
     <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
     <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
     <OtherDefects>Без дефектов</OtherDefects>
@@ -22737,7 +22737,7 @@
     <RunFlat>Нет</RunFlat>
     <DifferentWidthTires>Нет</DifferentWidthTires>
     <TireYear>2022</TireYear>
-    <ResidualTread>7</ResidualTread>
+    <ResidualTread>8</ResidualTread>
     <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
     <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
     <OtherDefects>Без дефектов</OtherDefects>
@@ -32769,7 +32769,7 @@
     <RunFlat>Нет</RunFlat>
     <DifferentWidthTires>Нет</DifferentWidthTires>
     <TireYear>2022</TireYear>
-    <ResidualTread>6</ResidualTread>
+    <ResidualTread>8</ResidualTread>
     <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
     <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
     <OtherDefects>Без дефектов</OtherDefects>
@@ -89654,6 +89654,344 @@
     </Images>
   </Ad>
   <Ad>
+    <Id>HRI215057</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Bridgestone</Brand>
+    <Model>Alenza 001</Model>
+    <Title>Bridgestone Alenza 001 305/40 R20</Title>
+    <TireSectionWidth>305</TireSectionWidth>
+    <TireAspectRatio>40</TireAspectRatio>
+    <RimDiameter>20</RimDiameter>
+    <Quantity>за 2 шт.</Quantity>
+    <Price>21000</Price>
+    <RunFlat>Да</RunFlat>
+    <DifferentWidthTires>Да</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>5</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Bridgestone Alenza 001 92Y
+🔧Характеристики:
+🔘 Марка шины: Bridgestone
+🔘 Модель: Alenza 001
+🔘 Размеры: 305/40 R20
+🔘 Доступное количество: 2 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 5 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+✔️ Честный осмотр каждого комплекта. Если есть нюансы — скажем заранее, без сюрпризов при получении.
+
+Арт. HRI215057</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/7e39e2cb0549c6e297bb9cf15885d2b42f1bef83bc59ee04b5d880492fc85ab6/6a436472/gyGbczXfRSV-1hy8H9ehI1ifQWQNVq_OjbBZHyrfbEvKdaXl__85Om0BWuLLDEKMs1LeqskoVt1EPYFs-U9TXw%3D%3D?uid=0&amp;filename=1ri71z02ww.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=192009&amp;hid=ff52c7f27e49f7765002c40e74f8488a&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=ee2596a7dff5bd2cd6aa871dd4a7ae6f"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>UOC163886</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Pirelli</Brand>
+    <Model>P Zero PZ4</Model>
+    <Title>Pirelli P Zero PZ4 275/50 R20</Title>
+    <TireSectionWidth>275</TireSectionWidth>
+    <TireAspectRatio>50</TireAspectRatio>
+    <RimDiameter>20</RimDiameter>
+    <Quantity>за 1 шт.</Quantity>
+    <Price>5600</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>4</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Pirelli P Zero PZ4 113W
+🔧Характеристики:
+🔘 Марка шины: Pirelli
+🔘 Модель: P Zero PZ4
+🔘 Размеры: 275/50 R20
+🔘 Доступное количество: 1 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 4 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+🔑 Б/у шины — это выгода без компромиссов по безопасности. Все комплекты проверены и готовы к установке.
+
+Арт. UOC163886</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/c864e731a9b1934a8ca22bb20af2f89167aef8c18ca09802f554b238898c51a9/6a436480/gyGbczXfRSV-1hy8H9ehI5U9f28wEU5vQQpUsfh6p_8pphMPRhczMvoM_Lb0RTBy3lry0FZxF_4Usz2lvLVjkQ%3D%3D?uid=0&amp;filename=9olynyvta4.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=280081&amp;hid=2f1e3ada57e3712484334c33e88b1347&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=a699890e7e9a891d4e7aee3e432d8342"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>LES778683</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Continental</Brand>
+    <Model>ContiSportContact 5</Model>
+    <Title>Continental ContiSportContact 5 275/50 R20</Title>
+    <TireSectionWidth>275</TireSectionWidth>
+    <TireAspectRatio>50</TireAspectRatio>
+    <RimDiameter>20</RimDiameter>
+    <Quantity>за 3 шт.</Quantity>
+    <Price>16800</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>5</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Continental ContiSportContact 5 113W
+🔧Характеристики:
+🔘 Марка шины: Continental
+🔘 Модель: ContiSportContact 5
+🔘 Размеры: 275/50 R20
+🔘 Доступное количество: 3 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 5 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+💡 Ищете надёжный комплект по разумной цене? У нас сотни позиций — найдём под любой автомобиль и бюджет.
+
+Арт. LES778683</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/eb87ad9d1e85eddf9c63d25749fd75d0516ea871770f9703c7eea234419e1cfd/6a4364cb/gyGbczXfRSV-1hy8H9ehI12HGQgylxjJ-EGTbox1fCWAqvCCE_T7DT3moV6qWLQJi2eYVrZVvn0tIgVY2EhgOg%3D%3D?uid=0&amp;filename=agvn2p73cs.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=373703&amp;hid=e213a0e3e22e493e6fc01eec59fbc16b&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=8af0ebbf844575b468e17684fc601579"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>VRQ717222</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Continental</Brand>
+    <Model>PremiumContact 6</Model>
+    <Title>Continental PremiumContact 6 275/50 R20</Title>
+    <TireSectionWidth>275</TireSectionWidth>
+    <TireAspectRatio>50</TireAspectRatio>
+    <RimDiameter>20</RimDiameter>
+    <Quantity>за 2 шт.</Quantity>
+    <Price>11900</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2019</TireYear>
+    <ResidualTread>5</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>1</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Continental PremiumContact 6 92Y
+🔧Характеристики:
+🔘 Марка шины: Continental
+🔘 Модель: PremiumContact 6
+🔘 Размеры: 275/50 R20
+🔘 Доступное количество: 2 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): 1 шт
+🔘 Протектор: 5 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+🏆 Работаем с 2013 года. Каждая шина проверена перед продажей — берём только то, что сами бы поставили на авто.
+
+Арт. VRQ717222</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/8dc187c3c7f96f241f157e7fd48a0d7516e187ef54545a3d68360446c7e8a416/6a436479/gyGbczXfRSV-1hy8H9ehI35ffoVK4cur5amVvB23X8S9pHlHL6bh-7r9EBO-9CdzT4K7G5RhDD73gDKa9lVyVg%3D%3D?uid=0&amp;filename=1.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=240866&amp;hid=972901e5e3c174a14aea78782e51254e&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=112d89f66f81bdc459b87e842dddeb23"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/997dcac3cd1f1952aae3e77b715ce7f5fd6fc5cb8b32a4451dd965b3fff6ce2a/6a436479/gyGbczXfRSV-1hy8H9ehI1qEY5d1Yfhtm1Qcp5hisaxl5XbGbUyZB07YpWVbCWx3l3Ms26tfumSBU4CDtkJcEQ%3D%3D?uid=0&amp;filename=2.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=297134&amp;hid=0fc4e0f0804553f489f29af29ae2af39&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=35986628b679dd9d009edd8cbc148b56"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/22a6464970ae1fbbb238c18c9a31c6f509e0a1daaa51b614c70dcfc29f2c4604/6a436479/gyGbczXfRSV-1hy8H9ehI7fn5Ax34Y7ZUt0hOIa3kWt1OgcM3LilmUIAH9I6_SFd39E721s76bnfAk-AUMKZzw%3D%3D?uid=0&amp;filename=3.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=264527&amp;hid=af2b5a096ccdb69429581ae802ecf3d7&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=c07db08c132bd3240eb701bd0f22df04"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/233a32c0caa352f41d24772dcfe64e584d3dbaeb107da164bbce06b9416efd98/6a436479/gyGbczXfRSV-1hy8H9ehI454z9Z10OLQBq1NZHyscc6n1qjp1RYZ40ZplzI0T8dQ185kHbNoCY5LTvfzEe-8ng%3D%3D?uid=0&amp;filename=3fmj4xqigh.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=302518&amp;hid=719c3602e2676d271618e0f96ecb7304&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=b747c68ed2b328fc4354a1e182a588bc"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/138b09e6583d508a68ab3ad3cecf9f4d2e83b09fae55eeb86eda5703e6803eaa/6a436479/gyGbczXfRSV-1hy8H9ehI9uido948mZcp-tCJ95waoSCIJHoMjxTdlKbZ1n9-aqq1apQAV-ukEk5cmLMR-qQ-g%3D%3D?uid=0&amp;filename=8frn1v296h.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=331697&amp;hid=af6d3d4cf0d5c626d2dc4c49100cb83c&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=8296b5c0864922f340608243d220afb0"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/83616d4b51b23e1acb424f272065726de48dd729715c3da7ca2a4811dac59bca/6a436479/gyGbczXfRSV-1hy8H9ehIw21czi4tZDVkB9jCy_kC9r4lFGrmXiZkPrfK42iLC47bBfMBSFduloHih0O5ix4kQ%3D%3D?uid=0&amp;filename=ada850bvp0.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=299242&amp;hid=5dcffda4695a34e2b861c90a10ae5bbb&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=534a55bd3996e5cb45ba15eb752369fd"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/e9331db4f9225c71febd075b348069f33bcaafdeee794e321ce8cd26c52cbe2d/6a436479/gyGbczXfRSV-1hy8H9ehI__iVvlBO9DOeaIR8ATPhv91zCkresgrLptQijZgLrmUIMmV31KssrFeHky2GUTPkQ%3D%3D?uid=0&amp;filename=ms5xjlns1.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=323385&amp;hid=9d60d97b25750c657571d5abd6ca5251&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=fdf978ea991d0a2289892420645b6fc8"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/0635564abbb9d87a731b366751d4844db96c1a055f1cb137a58ddb7e78952afc/6a436479/gyGbczXfRSV-1hy8H9ehI9eMB9oeO-QyrOxJkCgZVALUKzXO973i6d9RcVY3fBTSiTyryTnd4m9SVq8ZI2DOoA%3D%3D?uid=0&amp;filename=n45ag17z99.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=315703&amp;hid=f057ac43afa78f9fde3f1f81671f4232&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=b3eedf8ea515b67b2df099653c02784c"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>WOL916435</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Goodyear</Brand>
+    <Model>Wrangler</Model>
+    <Title>Goodyear Wrangler 275/60 R20</Title>
+    <TireSectionWidth>275</TireSectionWidth>
+    <TireAspectRatio>60</TireAspectRatio>
+    <RimDiameter>20</RimDiameter>
+    <Quantity>за 2 шт.</Quantity>
+    <Price>19600</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>6</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Goodyear Wrangler 114Т
+🔧Характеристики:
+🔘 Марка шины: Goodyear
+🔘 Модель: Wrangler
+🔘 Размеры: 275/60 R20
+🔘 Доступное количество: 2 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 6 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+🎯 Нужен конкретный размер? Напишите — возможно, он есть в наличии, даже если не выставлен в объявлении.
+
+Арт. WOL916435</Description>
+  </Ad>
+  <Ad>
+    <Id>YLZ597666</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Hankook</Brand>
+    <Model>Dynapro HP2 RA33</Model>
+    <Title>Hankook Dynapro HP2 RA33 275/60 R20</Title>
+    <TireSectionWidth>275</TireSectionWidth>
+    <TireAspectRatio>60</TireAspectRatio>
+    <RimDiameter>20</RimDiameter>
+    <Quantity>за 2 шт.</Quantity>
+    <Price>7000</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>7</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Hankook Dynapro HP2 RA33 92Y
+🔧Характеристики:
+🔘 Марка шины: Hankook
+🔘 Модель: Dynapro HP2 RA33
+🔘 Размеры: 275/60 R20
+🔘 Доступное количество: 2 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 7 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📋 Доступные варианты:
+• 1 шт — 7 000 ₽ (протектор: 7 мм)
+• 1 шт — 3 500 ₽ (протектор: 4 мм)
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+✔️ Честный осмотр каждого комплекта. Если есть нюансы — скажем заранее, без сюрпризов при получении.
+
+Арт. YLZ597666</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/c52c89c4435bb45701722c2ab36ff697875fd0c5bb5d3581ae70e9cc0387f72c/6a4364c0/gyGbczXfRSV-1hy8H9ehI38hE5dhAoKnG9noB8JWmU4hSOLC1rr0OrFxMZ64mtlpMrl7NcOd6YnRzdWQjKfeQw%3D%3D?uid=0&amp;filename=u00fszrd1x.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=230780&amp;hid=99482011f0bb591e569c8e47ee074e56&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=005ea812a5b7bb25f3b7487897110c65"></Image>
+    </Images>
+  </Ad>
+  <Ad>
     <Id>TJA449139</Id>
     <DateBegin>2026-06-30 00:00</DateBegin>
     <Address>Екатеринбург, улица Чапаева, 7к1</Address>
@@ -89706,6 +90044,125 @@
 Арт. TJA449139</Description>
     <Images>
       <Image url="https://downloader.disk.yandex.ru/disk/0f401132913b8568ac1bd32b7326cf0936bb03f42cf0ad5b26ac9076273857c9/6a4364c2/gyGbczXfRSV-1hy8H9ehI-vn9hNS6Xsvt8prt6SlfsHV5xRdNTZIMKtsG_X7kSDOWT57NsnhOO6sfgxs8sgK1Q%3D%3D?uid=0&amp;filename=photo_01.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=489469&amp;hid=56cb45aaab6de3cbfdd5ce2fab70a57e&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=7776c965cae48a7e44a31a4331faeb73"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>LBL324269</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Michelin</Brand>
+    <Model>Latitude Sport 3</Model>
+    <Title>Michelin Latitude Sport 3 285/40 R20</Title>
+    <TireSectionWidth>285</TireSectionWidth>
+    <TireAspectRatio>40</TireAspectRatio>
+    <RimDiameter>20</RimDiameter>
+    <Quantity>за 2 шт.</Quantity>
+    <Price>14000</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>5</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Michelin Latitude Sport 3 108Y
+🔧Характеристики:
+🔘 Марка шины: Michelin
+🔘 Модель: Latitude Sport 3
+🔘 Размеры: 285/40 R20
+🔘 Доступное количество: 2 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 5 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+⭐ Более 3 700 000 ₽ продаж на Авито — нам доверяют тысячи покупателей по всему Уралу.
+
+Арт. LBL324269</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/a48953a0b33b417a1dd959e634d274052e4a9ddb93a027f7872171186d1f1236/6a4364c9/gyGbczXfRSV-1hy8H9ehI_PXTqNl99BAr-naJGBD6_LutY_UT-SMsgjtEWRNVsdMfSdkGH1EIWdrs0vFrUmPQQ%3D%3D?uid=0&amp;filename=photo_01.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=270858&amp;hid=94225b9d48d4ae7657e014830462a912&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=4e00a8620c0274c2bbe1713a1ca9b830"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>ZIO854710</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Kumho</Brand>
+    <Model>Ecsta PS71 SUV</Model>
+    <Title>Kumho Ecsta PS71 SUV 285/45 R20</Title>
+    <TireSectionWidth>285</TireSectionWidth>
+    <TireAspectRatio>45</TireAspectRatio>
+    <RimDiameter>20</RimDiameter>
+    <Quantity>за 3 шт.</Quantity>
+    <Price>18900</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>4</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Kumho Ecsta PS71 SUV 112Y
+🔧Характеристики:
+🔘 Марка шины: Kumho
+🔘 Модель: Ecsta PS71 SUV
+🔘 Размеры: 285/45 R20
+🔘 Доступное количество: 3 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 4 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+📸 Хотите больше фото или видео? Пишите в чат — пришлём дополнительные материалы в течение нескольких минут.
+
+Арт. ZIO854710</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/fbb281ab4c2a6cba244289d5e8a26fa70d0718f106b497f9db93c3404f1d1bb1/6a436490/gyGbczXfRSV-1hy8H9ehI55AOKI8Fya4UTuonjW8ZrUc9eBwQohwphMgZNe8C5N-LTbpcFmuhA_up-YrHoEHnA%3D%3D?uid=0&amp;filename=1.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=628496&amp;hid=7765ea5802256500b383f63e5c891243&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=8611f18166d6bee0fc82495541916fb0"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/4cb10731a6dc038bc3498c03c3e1447393fb9bc6a4ddcc46d39f3fb960881ef4/6a436490/gyGbczXfRSV-1hy8H9ehI-ES3VtprMdy6V94aXN6iTIYvQdceGXcm43Nk0Q0fDo4Vndvs9P_A4kg4v8FpCUeIg%3D%3D?uid=0&amp;filename=2.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=708400&amp;hid=7f784ea9fdd6469762039cf16c2daa82&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=82876f0fa144cc78981224a22d0df3e0"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/ffedad90502e18bcb41abf1728070073d16745f3e9c95d727f1a3b11847da9b7/6a436490/gyGbczXfRSV-1hy8H9ehIySbYtY6pq4nv7JX9tp01G31griM1vD0jtviqxdKwSLQ6QLUM5HERMEZZ0o4MIdCBw%3D%3D?uid=0&amp;filename=3.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=779798&amp;hid=02b3fd49a86b6d5aecddcd21eb5ce3f8&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=f829759b6b2f37aaf8388c47e2617828"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/4c5af65558b2d2a2021451091796e38bce2aa58773690f877dcc1b1e046d0c2b/6a436491/gyGbczXfRSV-1hy8H9ehI2-dk6QUDL-NyT2VDLtUGChk2xVp3vRb0O5VzO2TMWCBUDqmF4EsocLY03QmuSsWqg%3D%3D?uid=0&amp;filename=4.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=689485&amp;hid=144f8fc2b47c31c0ea3f9a077b1839fc&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=2b51ae0691c6ebd0900f1c280bc12e14"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/dfc67a76920e3a84dc1b905820808e647efafbc9f782e499e3bd793ef1d313ae/6a436491/gyGbczXfRSV-1hy8H9ehIzUUePcsgvbfG2eNSuwxtWO-KRcagAjCeY-UI9H561bYI5QJDuakV5xYubzz7V4irw%3D%3D?uid=0&amp;filename=4m78oafxj3.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=1001978&amp;hid=b4d2d5d00b473ce1ec49ed1ea15142e8&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=e7ae099a2906dc7ae2b6b7b4cc1f3410"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/7d6022ae813d8c5fa285f430fc70ee8f312a560a651b33c0a38af62c904eca32/6a436491/gyGbczXfRSV-1hy8H9ehI30OYgQZe_3LPZY7OmNuMOQoXh9orVji7twn8nIG5-EkxyZD0YsW__bDPi8WIiCwvQ%3D%3D?uid=0&amp;filename=bztyvg87fm.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=683612&amp;hid=be005c07d68f1c8b0dde79e62d304589&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=bed2127a5acff6e63fb8e0ba0b91d34b"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/871755d580472c3892b56f15bd3a79fc68a12c954458bdcc00e25ad80c7c73a3/6a436491/gyGbczXfRSV-1hy8H9ehI_nplsXWvnCH3kDD2F1XVYvJQfOJ-HOcDm_1kPY2TExCa68tJrmOP5QNP6gmAlqdcA%3D%3D?uid=0&amp;filename=fnwrcx7wuj.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=630213&amp;hid=824482658f63409060aab2c3012ae4dc&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=b5bf99d20f25ff9f4cc8d4425ae53849"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/d69373db38d96e99d0bbec0da267f92f3354eee70586194582e750150b9ba347/6a436491/gyGbczXfRSV-1hy8H9ehIxcEvKrAcpOYx3qcJCifPqGxclsjYBJgnMR5f0xZqtYIdZNv3AEqc98gY0twLNiWvg%3D%3D?uid=0&amp;filename=nt47yy7gf3.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=628145&amp;hid=340a9b228348f73545f18600e92020be&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=696a1b3ce8bfe92006a735350811324f"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/0d8c7e977c5b361a4ef48ecf8a46854f28c6a70c8a0dbdf1a07ee741f48c0f58/6a436491/gyGbczXfRSV-1hy8H9ehIzPIm3kwDaX-TCUxYpq8lp9dUg-0n97miTnEgFw91DUBiCIFtTCAVLUhLSx457zjyQ%3D%3D?uid=0&amp;filename=pu1xxavezf.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=1008289&amp;hid=d8bc0fd824e37073d741155a78caf029&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=dbb2e9686051f11dea31f07bc8340d77"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/2625e3aebb356898728e961ea6d66f0b9524188a5b07c0e1e74a37168a011159/6a436491/gyGbczXfRSV-1hy8H9ehI574Goz0jGJdOeAzi18Fuh4wm2GNpCJknwe8mgzW__c8MXDQQni039EMEIxODmpaBw%3D%3D?uid=0&amp;filename=qb06nfzppx.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=730785&amp;hid=7a81fb8dbed3e470fe213213d1079dd4&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=7382b29a7b30ae8ec819264369c43203"></Image>
     </Images>
   </Ad>
   <Ad>
@@ -89778,6 +90235,74 @@
     </Images>
   </Ad>
   <Ad>
+    <Id>ZNW054939</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Dunlop</Brand>
+    <Model>Grandtrek PT2A</Model>
+    <Title>Dunlop Grandtrek PT2A 285/50 R20</Title>
+    <TireSectionWidth>285</TireSectionWidth>
+    <TireAspectRatio>50</TireAspectRatio>
+    <RimDiameter>20</RimDiameter>
+    <Quantity>за 3 шт.</Quantity>
+    <Price>12600</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>6</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Dunlop Grandtrek PT2A 112V
+🔧Характеристики:
+🔘 Марка шины: Dunlop
+🔘 Модель: Grandtrek PT2A
+🔘 Размеры: 285/50 R20
+🔘 Доступное количество: 3 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 6 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📋 Доступные варианты:
+• 2 шт — 12 600 ₽ (протектор: 6 мм)
+• 1 шт — 7 000 ₽ (протектор: 7 мм)
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+🚘 Подберём шины под вашу машину бесплатно! Напишите модель авто — скажем, подойдут ли эти шины.
+
+Арт. ZNW054939</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/b2129deb31f34d5b853dcbc1eba197067d1df7859542b5a7b6d81e593e344cbc/6a4364b7/gyGbczXfRSV-1hy8H9ehI-5uXs5tQucyEk79IE5VZ-FcIsbXYNAgySrmIbX7k4Eu5-GazBNZbFDdR_koqabtWg%3D%3D?uid=0&amp;filename=1.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=242369&amp;hid=abfd174244be5050825f88fa4ca96335&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=ada40e3ad49d6c74c73d0604383e51c1"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/7a3c01a5a8d03ecc15b727cf0dece25bcd3ee10de9e5951a5a4858c0b7816a2a/6a4364b7/gyGbczXfRSV-1hy8H9ehIyN3SDRya6UlH-gBKq2vGhIO3msOwoqn6DCKcwy41alzJT8dHSha-cd1qdjkGDq9Ow%3D%3D?uid=0&amp;filename=2.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=259150&amp;hid=a040db724aed1506bf22182011773a6f&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=95ad4fff6371d254c134fff2a7ca025a"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/c8894944fa148117b4b5cc31a1dd9c75bdd38550284fb38547cbc17ad00adf94/6a4364b7/gyGbczXfRSV-1hy8H9ehIzkvTTQnBqmu794y5Hxru-nFplLEIWsJuY3ZAfPGDqGvwGjwO0y_Xsl8PHYqzkY5KA%3D%3D?uid=0&amp;filename=3.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=275759&amp;hid=8dd6a84c99f8aafa6849a7f08ac0ac99&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=bfb9616f3eee2cffdd1ce85dc3eaf9d5"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/c2b9524dc957116c46274387df4004d69f10dd1f7f84eac94aea927223ae3899/6a4364b7/gyGbczXfRSV-1hy8H9ehI_kEgj_4qwLeWhSkZGzPhwhCNBakQKD7pTIdlfuF-HOtuQDbIfmMilBX5ItF7xpIqw%3D%3D?uid=0&amp;filename=551tjesye7.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=180493&amp;hid=fb12e868e72f7ca9657d770a3a298fbf&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=eb4d28f841b2be37223d8845a0080187"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/ad197def9a982b26dcc9d4bfc0759752907e29c6f792e9f797a8c8a1563201fa/6a4364b7/gyGbczXfRSV-1hy8H9ehIyOuBk-QbpN8CiksStq9U_DQkBLp4HrqvamBa7rspUlyL5rF7GT3012hK0jbows6JA%3D%3D?uid=0&amp;filename=bx7lo1zd8e.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=301250&amp;hid=a4ba5dd8d983539ee826f0acdec767f2&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=a68619949f467e60bb18ef1649612ec0"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/113aa488a1db00d8654d5fc09d69a42079df254e0a5905ed0280a2d69bdee6a9/6a4364b7/gyGbczXfRSV-1hy8H9ehI-75MG0D9dIRnSZmukFufun-lyPlMrVW7q8CaT0ho7IZT6TIHbqcZ-W5ugFWqAIMpQ%3D%3D?uid=0&amp;filename=fnnqpedzxl.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=272504&amp;hid=5525437d1bbbd4016caa13f64ab53cf9&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=a6eecdda8a2e15e01da8642cae95bf10"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/5ad64d93230382287e90face80a444050f5b0af8469a77390d274c6a468b864c/6a4364b7/gyGbczXfRSV-1hy8H9ehI5ikKThwL4Ap0f-yJkxKVnhivTqndwUhkN0B1HJB3eCJGOM_VCqO2a437iNXfu_abQ%3D%3D?uid=0&amp;filename=oqklozlwd2.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=262070&amp;hid=e967d517e3a5661f939e77dd7c9ff2a7&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=5c45e6095fc34f50267a35ec1e5a2cb1"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/f43661580d5951b297d951c238da7e70c3a5e337c9985857228a1745cb6e1dfc/6a4364b7/gyGbczXfRSV-1hy8H9ehI0xht-vXtUQ6cBx3e3qrBnkp_GK_Q4u8vBVjJI-Ujwo90f5NoKbb8ymtLDZo-l75mw%3D%3D?uid=0&amp;filename=qc0jk68el5.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=246663&amp;hid=c734b32c4141680dc056082473f73f1d&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=5a0596553bf6f9c4889ad9f7fd243af3"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/8cd1aedfbc3adc9308be753d7b120416dc3a8c449fc14e0a24a1c1af6152b1e8/6a4364b7/gyGbczXfRSV-1hy8H9ehIx7mwJzGhdenML9yW3d0SK54FIJOhFd8D9wq_d7qmv-CEF6aJ2Xu0n2BtSamVqUb5g%3D%3D?uid=0&amp;filename=txdq7qfya9.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=222647&amp;hid=32d20db1f3396bd53c9923af9e657253&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=a6a1de345d3e13458864e2c148b190b9"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/495eba0120f2cc7ec9a43dea708d7e5211d0b2e9f9d519da075508ab844ef8e4/6a4364b7/gyGbczXfRSV-1hy8H9ehI66XYmQTjz-SDC45xou7s79PJnH4PIV7AFjUpRIdGcPCC6kH_diEKDbYeh3Y5GJGTw%3D%3D?uid=0&amp;filename=vee2feswts.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=257448&amp;hid=bdacf9f8a294d269d3c557e4d4b1b642&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=3b36e2a48ca476340c4d2543b1975753"></Image>
+    </Images>
+  </Ad>
+  <Ad>
     <Id>MVH019257</Id>
     <DateBegin>2026-06-30 00:00</DateBegin>
     <Address>Екатеринбург, улица Чапаева, 7к1</Address>
@@ -89845,6 +90370,233 @@
     </Images>
   </Ad>
   <Ad>
+    <Id>OMD067540</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Michelin</Brand>
+    <Model>Latitude Tour HP</Model>
+    <Title>Michelin Latitude Tour HP 295/40 R20</Title>
+    <TireSectionWidth>295</TireSectionWidth>
+    <TireAspectRatio>40</TireAspectRatio>
+    <RimDiameter>20</RimDiameter>
+    <Quantity>за 1 шт.</Quantity>
+    <Price>6300</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>4</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Michelin Latitude Tour HP 92Y
+🔧Характеристики:
+🔘 Марка шины: Michelin
+🔘 Модель: Latitude Tour HP
+🔘 Размеры: 295/40 R20
+🔘 Доступное количество: 1 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 4 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+⭐ Более 3 700 000 ₽ продаж на Авито — нам доверяют тысячи покупателей по всему Уралу.
+
+Арт. OMD067540</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/6d85ea6de479dd5d97a6bf1cad28663d0eaf86049180f89a91b4c0bf72a0b003/6a43646e/gyGbczXfRSV-1hy8H9ehI9eDmAWVnlgGEqIGipBvCCosw5xwZnHrcJ9KFT7OAb2D140nzY3cvRde7X1v3HtH-A%3D%3D?uid=0&amp;filename=1.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=318321&amp;hid=ee659c9cab726fd2657946bcd7b88650&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=a21d95f9a3bb9b5e2611336d64e91245"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/612225829b1c814888b214ad63bb936ff5c10b3abcedd2e78e604e01c230910e/6a43646e/gyGbczXfRSV-1hy8H9ehIzjmI1Mbu4np-dLLvFjgY4qTcYtdv0-0GWQjh4k67pWy_YUFGXeaSsjZ5x5PhS6mmw%3D%3D?uid=0&amp;filename=2.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=375083&amp;hid=7c45b84073eebfedae4f9d3631ebe3ed&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=5cbdcc24fa1a226943e495b9dbdd0a44"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/39a4dc5ca33eb5b40205e6bf239ad1d0f8a92d0e41abaf4b7472d8a22bc30539/6a43646e/gyGbczXfRSV-1hy8H9ehI1tkMHjqIRQnMOus1NjbpE3TuW8i8n5lrtwNrIpanqBBhykYgVCXTCXvjuhNCPHkEg%3D%3D?uid=0&amp;filename=2kzf0wdpi7.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=399501&amp;hid=41571e2ac34d1056265a4b58dece4d6d&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=5e237b29ab244e239e3326cc2c193c39"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/fcdfd10336ab44ee885c4dc3afb109e80df013d97418cc3ef5bd255366212711/6a43646e/gyGbczXfRSV-1hy8H9ehI1MP0rEnb3n5Mf3OzfKlKHLZ4pkGFUseLjJsnplTWdy68b8MiBeUHbh_nKYcT7_vUQ%3D%3D?uid=0&amp;filename=7ic3rj0y6y.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=473355&amp;hid=0d90a2d5ae3d1002ec35fa9d191108db&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=dffc7dc2a61d391d1d2e7776ca9fb6a5"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/3e6527c8856d184a19ff08dd45fea04435ca892a823a6ba30836fa7a2d7e846e/6a43646e/gyGbczXfRSV-1hy8H9ehIx9z2mVHOjzH6KyGtRsaATiQQ-fvPAQSJIr8cljUJHemTUCrm65M2MVw4LuaFG4IMA%3D%3D?uid=0&amp;filename=nrnjgbr254.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=305837&amp;hid=85cbd78a36186571f2ff6e852dfa4267&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=08cbf58a51d32424aeceefa3bb64cb23"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/2ab9d4a13b7634254dc9d0cc4317b501f68d9c6dbac676e2fe77c919067cb297/6a43646e/gyGbczXfRSV-1hy8H9ehI5SekBSEn9AF5GVp_5P06cNtiddujStbbtHa1zeo5HEzfcZ6SU9d8oj-goK8WWU4JA%3D%3D?uid=0&amp;filename=o18ysdgz9r.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=312120&amp;hid=63daf98d2cc899c223d91d8072a0e019&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=2ed9058f416cc97d371697206e0a480c"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/1978fa38fd1c304c9fa07619e5e8909c3f8acbfb7149cd9c07451b39ee76f457/6a43646e/gyGbczXfRSV-1hy8H9ehIzKXeZgtDKFlqY-ivSvj-EpLH4zF4V4S_04pT7viNuoJWeuCKm3UQI_CtfidTyWOlQ%3D%3D?uid=0&amp;filename=sjx91wi7ql.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=285088&amp;hid=64aef868ce2e5e87322c3ab3927ba2ea&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=751dd0611b9f9ba2ddf656bd9945eaa4"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/0f983018ef9b0abe5b8179b65758edda60036835040a25213d9086cd4e9e816c/6a43646e/gyGbczXfRSV-1hy8H9ehI5t3HcxJJKr0SwN_kGf9_UWGWL7HskIN0as65SAueh2QCy09D4s_mvDzhn6t47bRxA%3D%3D?uid=0&amp;filename=wtbilw56x6.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=270900&amp;hid=4a15ab3544265522c2cafa81e0cee6bc&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=d4f6f2cfaf78b932c74923b4811f9c36"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>OKT145940</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Dunlop</Brand>
+    <Model>SP Sport Maxx GT</Model>
+    <Title>Dunlop SP Sport Maxx GT 275/40 R20</Title>
+    <TireSectionWidth>275</TireSectionWidth>
+    <TireAspectRatio>40</TireAspectRatio>
+    <RimDiameter>20</RimDiameter>
+    <Quantity>за 2 шт.</Quantity>
+    <Price>21000</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>6</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Dunlop SP Sport Maxx GT 106W
+🔧Характеристики:
+🔘 Марка шины: Dunlop
+🔘 Модель: SP Sport Maxx GT
+🔘 Размеры: 275/40 R20
+🔘 Доступное количество: 2 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 6 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+⭐ Более 3 700 000 ₽ продаж на Авито — нам доверяют тысячи покупателей по всему Уралу.
+
+Арт. OKT145940</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/198649e1048ab3f6abec83b06b4a428bfcd03c26dc4fddf97c663e85c4c1eb59/6a436443/gyGbczXfRSV-1hy8H9ehIzfMQV2xzELlYUtsT0KTNmbQuoD1FF7P-kAlgOTzGwjqEGvvOJKQYqaKQC-NqmmlFA%3D%3D?uid=0&amp;filename=yxo8ud82xn.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=226972&amp;hid=4eb50fb10ba5946110d52e33c2dd1eac&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=62cc02a5568b7516ebfe9598d11e8b4e"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>QEV885786</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Dunlop</Brand>
+    <Model>SP Sport Maxx GT</Model>
+    <Title>Dunlop SP Sport Maxx GT 315/35 R20</Title>
+    <TireSectionWidth>315</TireSectionWidth>
+    <TireAspectRatio>35</TireAspectRatio>
+    <RimDiameter>20</RimDiameter>
+    <Quantity>за 2 шт.</Quantity>
+    <Price>21000</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>6</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Dunlop SP Sport Maxx GT 110W
+🔧Характеристики:
+🔘 Марка шины: Dunlop
+🔘 Модель: SP Sport Maxx GT
+🔘 Размеры: 315/35 R20
+🔘 Доступное количество: 2 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 6 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+📸 Хотите больше фото или видео? Пишите в чат — пришлём дополнительные материалы в течение нескольких минут.
+
+Арт. QEV885786</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/cc4413e12fdfd99bfc356ac86b13b2d2d5b52ff67f8010fba5f9b23e448f85af/6a436452/gyGbczXfRSV-1hy8H9ehIzfMQV2xzELlYUtsT0KTNmbQuoD1FF7P-kAlgOTzGwjqEGvvOJKQYqaKQC-NqmmlFA%3D%3D?uid=0&amp;filename=xnmokxfsus.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=226972&amp;hid=4eb50fb10ba5946110d52e33c2dd1eac&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=62cc02a5568b7516ebfe9598d11e8b4e"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>APS881152</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Goodyear</Brand>
+    <Model>Eagle NCT 5 Eco</Model>
+    <Title>Goodyear Eagle NCT 5 Eco 255/50 R21</Title>
+    <TireSectionWidth>255</TireSectionWidth>
+    <TireAspectRatio>50</TireAspectRatio>
+    <RimDiameter>21</RimDiameter>
+    <Quantity>за 2 шт.</Quantity>
+    <Price>21000</Price>
+    <RunFlat>Да</RunFlat>
+    <DifferentWidthTires>Да</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>7</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Goodyear Eagle NCT 5 Eco 101Y
+🔧Характеристики:
+🔘 Марка шины: Goodyear
+🔘 Модель: Eagle NCT 5 Eco
+🔘 Размеры: 255/50 R21
+🔘 Доступное количество: 2 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 7 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+🔑 Б/у шины — это выгода без компромиссов по безопасности. Все комплекты проверены и готовы к установке.
+
+Арт. APS881152</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/fc84703c56a5994c71647fa8bcd970fabb444c0e8ba63debfbca2329ccb5b809/6a4364dd/gyGbczXfRSV-1hy8H9ehI7XhMCNogX5XFQfzlluq0UXOS5pfhhnyoCkn85hw7a2iG_5fDGToykdv2XRoQYUISA%3D%3D?uid=0&amp;filename=iwuvb8z9zj.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=242820&amp;hid=1335682ed7344109e8045393ec3b27fd&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=4337412dfded67ec3e2eb60222878e27"></Image>
+    </Images>
+  </Ad>
+  <Ad>
     <Id>GSY355652</Id>
     <DateBegin>2026-06-30 00:00</DateBegin>
     <Address>Екатеринбург, улица Чапаева, 7к1</Address>
@@ -89901,6 +90653,443 @@
 Арт. GSY355652</Description>
     <Images>
       <Image url="https://downloader.disk.yandex.ru/disk/f3d087261fe27eda403a3536e0a6a3070afa5a5002ed5333aa1f9579f8ffe05a/6a4364ce/gyGbczXfRSV-1hy8H9ehI7XhMCNogX5XFQfzlluq0UXOS5pfhhnyoCkn85hw7a2iG_5fDGToykdv2XRoQYUISA%3D%3D?uid=0&amp;filename=rounqbttez.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=242820&amp;hid=1335682ed7344109e8045393ec3b27fd&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=4337412dfded67ec3e2eb60222878e27"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>QBK721944</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Continental</Brand>
+    <Model>SportContact 6</Model>
+    <Title>Continental SportContact 6 255/40 R21</Title>
+    <TireSectionWidth>255</TireSectionWidth>
+    <TireAspectRatio>40</TireAspectRatio>
+    <RimDiameter>21</RimDiameter>
+    <Quantity>за 2 шт.</Quantity>
+    <Price>21000</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>6</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Continental SportContact 6 101Y
+🔧Характеристики:
+🔘 Марка шины: Continental
+🔘 Модель: SportContact 6
+🔘 Размеры: 255/40 R21
+🔘 Доступное количество: 2 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 6 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+🚘 Подберём шины под вашу машину бесплатно! Напишите модель авто — скажем, подойдут ли эти шины.
+
+Арт. QBK721944</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/80805b296191f32f981bfd6f6323be279b0eeb5c265d046bf1ce7e815cd12fde/6a43731a/gyGbczXfRSV-1hy8H9ehIyjEZxWKNo7Twzy8Y-RY5SF84d-BDiBpPRR1wt7-pt5Swx9rLhiCaKnHNkXeRuEDtw%3D%3D?uid=0&amp;filename=1.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=133005&amp;hid=81f133a33863e0788cd9de5a0d4cd3b9&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=cbe76e67a5bc11e8b586fcc2b615fe25"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/4d57834833cc87ac392a02ec866420cf1204c5f1ec20d00b70baf7c39d6dbd78/6a43731a/gyGbczXfRSV-1hy8H9ehIzRvMo8K2VNt5mjcc-Evre2kY89hTFG4p4dqaZRTKsvLQsatf1bEEZYB7ChPvYlfQg%3D%3D?uid=0&amp;filename=2.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=213815&amp;hid=11ebf34683e1de1f0f62dec4b3ae4d47&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=ec65ca4ef6dd8a9f8615e37447178417"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/851b2a0a2646d57380964b047a1167b1f88acabd904bb67d202bf4384d81d84c/6a43731a/gyGbczXfRSV-1hy8H9ehI9frBympUX-uGCtg6twVnPerJXa5gtL5MRM6IPI3hHmvU71Dv4gO7j22r_u9hLMcZg%3D%3D?uid=0&amp;filename=3.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=218044&amp;hid=c7e302feffde30bc480a5e4347c0e353&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=43ccf40bf9cdb9fb08a5483cb63931c7"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/39f3f6712edf6f0546ca849593b2bf77021d2ef80ef80c9d5188472af428dd62/6a43731a/gyGbczXfRSV-1hy8H9ehI88VZILg4viyILf2d_HorKqsu5EERM_iaGznr_m87oJAMaQAsMh81Z8UfF3Da6AhOg%3D%3D?uid=0&amp;filename=50i2ha1uww.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=288844&amp;hid=a216aec103325c26111eca9d1f0f4825&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=aa418ae219f88adb7c8a27121f726282"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/5dc617d362466bee1099e411776a50cd0103f52d46dbb8b3467d5aec7edd91eb/6a43731a/gyGbczXfRSV-1hy8H9ehI6i6dvzC2H6cy6kMJYCuOo82qFCQxig7ako2xGbFphaATkSOMwX_-eAFVHOhYiSIKA%3D%3D?uid=0&amp;filename=5bn3fhqgty.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=196309&amp;hid=42821bb009b55ca229ebab18e7719a56&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=d8ddffecdac9c149e62fde7e2ccf5dfd"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/3b12283889b3beb43bbe59b5352c5e1df81fe3370fbdc0cc0b72cd9ba6658c43/6a43731a/gyGbczXfRSV-1hy8H9ehIyn1lXQzUbXXdNHC9BQltPMEiOLnaj5QLCb5RZiqAnnMX4J94jRz1M1Frxlk7qGVUw%3D%3D?uid=0&amp;filename=6imkbbky6c.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=152282&amp;hid=f748946689a57e5bf18dfa9ff2a7aaaa&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=016219ca3701635306b9fdbfdacc28bc"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/30451dd6caa5e1afd1e673970ab01dc18800a7d9804e71a3d3867ac837088153/6a43731a/gyGbczXfRSV-1hy8H9ehI0haI2goWSERzrXRQrPGssLvaHyfKRKSiDjonhWi2HbsDE_w8qHnEtWuIKbdwOUF3A%3D%3D?uid=0&amp;filename=ihbj6hyobo.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=216555&amp;hid=0fe40deee949701456f0dcffe52f4b66&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=9fd4213d5bafd73e3279dc33d32caf7b"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/e5de6f1ac71cba9685c1405d0d5fc8b59d478559598a870172ee2b29e394347c/6a43731a/gyGbczXfRSV-1hy8H9ehI6yULerd5XOloFADXCogzgW8Lxi4HTj1X9DPcOzzte60Gy0cBVXxgrwuA_x7V5Fo8w%3D%3D?uid=0&amp;filename=l05a1y2fcq.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=220034&amp;hid=78560252906d49d15f7dc7e2d37b46d3&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=f4e9f15d4c6cccccb3613f49e8ab65c9"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/da1300314c06190a90509d7e701121cbb6a585d6cac07be5cbbd0618eae4af56/6a43731a/gyGbczXfRSV-1hy8H9ehI3QPy5Yy3MEPHb5eORONGSLFpQ66QrPuH3z-SpZJuMlv-wrqtV_YQWoUPoFdg4GCNA%3D%3D?uid=0&amp;filename=l5wagwn94x.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=194565&amp;hid=616a1a51be49790907e83e9b1dfcde5f&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=ce82bfa8ecddb726a285bbd49d5343c3"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/939fcc46b6548eebafa1719a24e88b8dabcf7b2e05f540f61ddaec842d995cf5/6a43731a/gyGbczXfRSV-1hy8H9ehI2eKUeByzvSXljsQ2IAymxJEqKxDD1iqZlug8CDFP_C2PFKBq-8GkYe71EoTFxVqRQ%3D%3D?uid=0&amp;filename=mi7yknjwq.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=232072&amp;hid=e283e0728e713b3045ca6e84a140f422&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=0e36d699abe485a8d3084d10aa888915"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>NHQ000033</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Pirelli</Brand>
+    <Model>P Zero</Model>
+    <Title>Pirelli P Zero 265/40 R21</Title>
+    <TireSectionWidth>265</TireSectionWidth>
+    <TireAspectRatio>40</TireAspectRatio>
+    <RimDiameter>21</RimDiameter>
+    <Quantity>за 1 шт.</Quantity>
+    <Price>8400</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>6</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>1</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Pirelli P Zero 101Y
+🔧Характеристики:
+🔘 Марка шины: Pirelli
+🔘 Модель: P Zero
+🔘 Размеры: 265/40 R21
+🔘 Доступное количество: 1 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): 1 шт
+🔘 Протектор: 6 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+✔️ Честный осмотр каждого комплекта. Если есть нюансы — скажем заранее, без сюрпризов при получении.
+
+Арт. NHQ000033</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/ab4da821da5bcfa9d77cb2afcb5049bd19a4c34df9857c48e68215b52dd2830a/6a43731b/gyGbczXfRSV-1hy8H9ehI_tAHLnHU21ypZOZStOE4U-QWZwkJp-VCXbMjEjUm1p4vqaCxn_8d3EiYqI6qAm7iQ%3D%3D?uid=0&amp;filename=1.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=237953&amp;hid=0fc121149f7e61755e96ef4fe4db5c69&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=841f223bb18668cc0ee8180ff94ac39c"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/de0c034aaae7c35851814baa74f6c3acee24a146e381f27bd0b41893bf800bcb/6a43731b/gyGbczXfRSV-1hy8H9ehIxPJiFbB4--mfWLFJq6mvzmLqO8KGj9Xonq0_fbz43BGmyOMMTo7az56pddOyE1Vcg%3D%3D?uid=0&amp;filename=2.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=240775&amp;hid=62d1a02b6f7d1b53f94e14af5e883020&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=71455216f8932db5d2bd263c9b87e4a8"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/a3c3b90dbe6d5d756fdfc72e9dce239a36078466ef0cb1d355f07f4fa24c20c0/6a43731b/gyGbczXfRSV-1hy8H9ehI9YKXmAzUvghXBhd0t8pJWliPXmG-BET1RICS9QOt91RvotSdGt9lYkMzxCRgxJCJw%3D%3D?uid=0&amp;filename=fwoqu1hb61.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=191102&amp;hid=b7276fee86eb9891aa42327c3c301167&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=da39a86246535cfd6a9b5897c165a5ed"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/cd32cde1c74460caf77a5f8c110d3df048c139c13a8e0b0e5dcdec9b474d7dcd/6a43731b/gyGbczXfRSV-1hy8H9ehI58cnDI8pVNWf9hrOAIgF94Fnk5kgLkyIPFiRV3nSVg3QOK-HtQZHwGBrtHptLTKvg%3D%3D?uid=0&amp;filename=ggre29iu6h.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=234296&amp;hid=c891e5135e8c2011504b77bda7a376ed&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=cf1c81e16587b460a426666128da3973"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/7a36e38fc2520529602393e9ff12c626a54fe934dbbb4cf919d67875efc1678c/6a43731b/gyGbczXfRSV-1hy8H9ehIzvLyytTY1py6vQSr3y-MPLR4j_RSH0RAEZc3VNvM5Aqxp-burHR2oSjBApcG1iIAw%3D%3D?uid=0&amp;filename=q7dzl2nt5k.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=261205&amp;hid=80a4d0a2aa7a58899cb5d61666057eb1&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=47668f7707a65534aebf725ee9fb910f"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/4505bfd3a202c6e1666104ba518fda3d803ca7ba241fec287266d9963ceb6ab6/6a43731b/gyGbczXfRSV-1hy8H9ehIxpDHLKhojFSUbqfdI-C4os5yA24pMd_IxPUXdPDV8gso4BgXOTfWnudrReRnuGQqA%3D%3D?uid=0&amp;filename=th71wxdu2a.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=229499&amp;hid=76d20c0470b4011a74466abdb93e1aee&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=0b405b5bbf81a472d4c33e2e8ccf4159"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/f6e0d102e03beb30465c3cb988df0536e26cbb6bd1f7d6cdae2fe8157ec2c4cb/6a43731b/gyGbczXfRSV-1hy8H9ehI_TaLCk5-cup8x46a-N1DuzoTdGJEIGSwOiVCHJA_Mu-Lvw9xbPS44siL_yeN_Le4g%3D%3D?uid=0&amp;filename=ua1kp8h1y9.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=175968&amp;hid=c0417648a1797a35fac5298455417f43&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=e5cf0c982c5488c0f28ed323a9a29a01"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>QHL745947</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Continental</Brand>
+    <Model>ContiSportContact 5P</Model>
+    <Title>Continental ContiSportContact 5P 265/40 R21</Title>
+    <TireSectionWidth>265</TireSectionWidth>
+    <TireAspectRatio>40</TireAspectRatio>
+    <RimDiameter>21</RimDiameter>
+    <Quantity>за 2 шт.</Quantity>
+    <Price>14000</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>3</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Continental ContiSportContact 5P 101Y
+🔧Характеристики:
+🔘 Марка шины: Continental
+🔘 Модель: ContiSportContact 5P
+🔘 Размеры: 265/40 R21
+🔘 Доступное количество: 2 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 3 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+📸 Хотите больше фото или видео? Пишите в чат — пришлём дополнительные материалы в течение нескольких минут.
+
+Арт. QHL745947</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/3f38a007f3b091f021bf0b3db6da92e76569d53b23d46a2cd8a243e92d48f573/6a436446/gyGbczXfRSV-1hy8H9ehI4meZU8iyuFDmk-AdGGORJvKGwjMX0rXuhsD6T7P0j58xjG76Gl7k4QTpVhqlCXDKg%3D%3D?uid=0&amp;filename=1.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=204459&amp;hid=3e2db8522d1ae3b9574e67815898ee18&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=e1137658521ee1ea89b595a4b8e99b9f"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/744d09f9f5becf82a74cb72be6ccddcd2a1dcac1e639d9d38efe02ac3c231488/6a436446/gyGbczXfRSV-1hy8H9ehI8JfhHK47CjWa3wnlWliGzTyCOlb_YXoBHExKmqd-te9u29HpYNiV3pG_m4O5tNkzw%3D%3D?uid=0&amp;filename=2.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=215186&amp;hid=179b903bb50989435fca7fc6daf45450&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=46b8e176dcec6eb000db72b819ffd3bc"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/7753969a5ec6d4e8982f774cdf6ae0e832314d8af595bd0a3e36a21b4e356205/6a436446/gyGbczXfRSV-1hy8H9ehI0wca02o-9Bq2PzAQw6lqxm_6z5tBvhjUEoPLmS4MC_B59q0MrcdRdWCl04LFEgcYQ%3D%3D?uid=0&amp;filename=3us97mivps.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=241329&amp;hid=94ef2988e527656a1800ba4e99b74b59&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=fc4b6ca65b5095d4d656c2a844800247"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/05e44a927c5ea7bd72ce35886e53d01e3ae450b540d9b6d647403e598d8b8c9c/6a436446/gyGbczXfRSV-1hy8H9ehI3_mAt32QYPN5HaTo8La4gm2VFFacPpzPdm41u2uP3WN8_FEaXqPfCSSbNqspsoeeg%3D%3D?uid=0&amp;filename=52vvwqei6a.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=299425&amp;hid=1f3a620b2b0906b57ca29fd8d9663a01&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=24457570e3fa754f2cbb3f2515d78aac"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/a8caa96fc304ee46655e3c99b060aaf045a1147b89147e3b031dd4412ca0857b/6a436446/gyGbczXfRSV-1hy8H9ehIwClCbtSV_eFxZJjv7f4Yp0FNtvXuVrebOO2DS_AiBJJL-hyFNwwbat-ftW6hLQvpQ%3D%3D?uid=0&amp;filename=792sbxq8ec.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=231428&amp;hid=40ccb0560b31ab3269462ed7407d8252&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=7ef48dd9cb29fc71be6214f55d9ce28c"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/c4cd341df17843a6cefe6cf40cc25185d99a1eee4bed1f27dc219488328706fe/6a436446/gyGbczXfRSV-1hy8H9ehI28Y-Orl2CoqPAW3MvuYn26i4qUtAd-0D6LNCv25UsnLy4OftKp8JD7REb78SvHueA%3D%3D?uid=0&amp;filename=akwogspt1a.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=350121&amp;hid=5e9de2c8cc5a99f089fc47d0b30a949c&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=e50e980ee94f8b5f011bf80f58d0e11e"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/6762b3cf1c679c218fbb10aa8a68dc9ef6321d7510e34f1ae1f707ac06b81e4c/6a436446/gyGbczXfRSV-1hy8H9ehI2kxz-gGLe3m2bn4f_A7YZzzUOrGP00ZFRzniw6GHDXtcjgm85r6xQ9jZym2jPXlgw%3D%3D?uid=0&amp;filename=e4qyepxlk6.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=392162&amp;hid=dfe1be79961530f8e0ee71b4e423af76&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=1c7ce04a70124f7390ff2c9ac22a97da"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/d500ffef581c05496c154ebb3f3ce2ac9d260329b8eacfc80a930acf6632fb05/6a436446/gyGbczXfRSV-1hy8H9ehI5SX_BnPWApu2Psnbur0x3EgQlCVG4p1ayOhPtsdd8mqaKczA4TxzpJejXGQTMz2NA%3D%3D?uid=0&amp;filename=fy6msn3f9q.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=264955&amp;hid=0c880cee34507e290fcb422129c6b4d1&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=73656c275ff995b73d6b6a9d93960f60"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/3967e90991c5dedbcf8b58fb2dab809d638be261e2f6d8baad506cd60c2d8ba7/6a436446/gyGbczXfRSV-1hy8H9ehI-Mpt3N3p8Hpx8cfkFjVti9RCAiH07Q6emimOuo9OZ8DNj-OMH6CjjzT-hLnJSHa9Q%3D%3D?uid=0&amp;filename=gzt1a16gsk.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=190013&amp;hid=35b282e74920beca09ec1fc84f777fa3&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=74b1e872c26f0cf38fc34b92ca8e321d"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/b3dd46a806490064083bfd6cfd19733802ff0a18dbd048d363a2656e551d72fe/6a436446/gyGbczXfRSV-1hy8H9ehI5qeqD0zLs6y-Q9C-a62OQahaqcMw2_uwEYwJAnddJ9TNhP0CXuufM3-UDRVb50wyg%3D%3D?uid=0&amp;filename=nljf85wg0u.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=276219&amp;hid=a3450381a72c066aa75197d24cdce7fc&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=62bcc1f201d25e7a340a4f0fd91bc55f"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>LSE930840</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Dunlop</Brand>
+    <Model>SP Sport 01A</Model>
+    <Title>Dunlop SP Sport 01A 265/45 R21</Title>
+    <TireSectionWidth>265</TireSectionWidth>
+    <TireAspectRatio>45</TireAspectRatio>
+    <RimDiameter>21</RimDiameter>
+    <Quantity>за 1 шт.</Quantity>
+    <Price>2100</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>3</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Dunlop SP Sport 01A 101Y
+🔧Характеристики:
+🔘 Марка шины: Dunlop
+🔘 Модель: SP Sport 01A
+🔘 Размеры: 265/45 R21
+🔘 Доступное количество: 1 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 3 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+✔️ Честный осмотр каждого комплекта. Если есть нюансы — скажем заранее, без сюрпризов при получении.
+
+Арт. LSE930840</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/3e4bb81ac76779b4fb80a9add1d4e01f3c0a2e6a96c4c39b2039881adf16f34c/6a4364ac/gyGbczXfRSV-1hy8H9ehIxnTqg6QEop9fmHJSoSt2yz3XOPrlnyDCdUw-SeNxmY1Gm2K6ivZalc1bLBQYg00EQ%3D%3D?uid=0&amp;filename=1.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=311139&amp;hid=605ee01918f6e73fc36834d31b0a527f&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=503e3c08fbdc7d1a4e81a7168217678b"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/84fea17cef93cc3951a6b7ec92cb7a7d061bb295a757a6aa55d153e2479f7ce8/6a4364ac/gyGbczXfRSV-1hy8H9ehI1IdqS35YPF4_hKOXQbwyfKFPiGqPvYl_B0fAFKNfHilVcbE71yJ8C217oaQdTMmHA%3D%3D?uid=0&amp;filename=2.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=274509&amp;hid=943d7e6a2967dfccabb4bc096d1cf1ef&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=6bc875b277fec775ec8c8ef83184edfa"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/c479134cababd0441e0672375d58aa01db68a05b980e2bd9294a26d022cbd654/6a4364ac/gyGbczXfRSV-1hy8H9ehI6tuHrMP72uabI4H4x4fDqjv4bmFrq1iavuZTz8wiggsWnqUTc8s6XNX1ef4suiyGA%3D%3D?uid=0&amp;filename=2xpf76lhml.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=321544&amp;hid=25d379f9fff9ef5767b648ca5defe084&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=56aad3acf884486bfe3be6b0aa471512"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/fdfbc9b9fa1e11e5ba4b078bab5b479d8fc3c666540fd63bb546a35e9dc0b977/6a4364ac/gyGbczXfRSV-1hy8H9ehI1YsqUBbAGPpEZIeQ74ETOQdRh2iqDgeaNfEebUVX7dll8CYWUuxlT90u13ROa7J_Q%3D%3D?uid=0&amp;filename=69smsek4cp.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=357558&amp;hid=056a78cc8ceef55ccf192f5b8521ac12&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=cdabfc483eef97675fa9afbfd40b0930"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/0f5bd700c5cbbaa83ffed3413f551bbf6af00ecf8d23c9782bc94846caa16b55/6a4364ac/gyGbczXfRSV-1hy8H9ehI7N6amz_IVHjOszygB3sGPM0F5vywCQzuq4VCDbyBuJcX1RQayNZE0XoG_F8BMesHA%3D%3D?uid=0&amp;filename=jpgkdkeeb7.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=281953&amp;hid=c54919df5c3dacffe07658d7301e094e&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=f362440c8953ed4c8cb664918ef0639e"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/09013b3d1426b1881b94a99a2ff7fda0b4708c6b6ba49c96e52b9e17839a9a2e/6a4364ac/gyGbczXfRSV-1hy8H9ehIyv4eC95roSfcPNMvAi6KaoYlyfEJ0e2fyPfIbUmucoB_D5VwLvJ24majTzD1sNZ_Q%3D%3D?uid=0&amp;filename=o9hhtfiq28.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=332224&amp;hid=8eaa463924f1bb72dd37f2d5a64c0ce5&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=e9d9b7edcebcb6f6ba1106b7d485a941"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/7fb2f1ce7d1c9e0ed662a34517b2268bd40d7f3fc3a9421927a375e130a09a3c/6a4364ac/gyGbczXfRSV-1hy8H9ehIywoee4de63XFonFTogVBiJa2Qt8VEgSiXRvtnyOwAzxGSNAuB_TQKShbC6JSJLzWg%3D%3D?uid=0&amp;filename=v1unqlj2sr.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=282330&amp;hid=ea12ebc1d132554b8d5731d17f974b92&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=5d5481414fd9244364515e5d416f7044"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>GYB537921</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Michelin</Brand>
+    <Model>Pilot Sport 4 SUV</Model>
+    <Title>Michelin Pilot Sport 4 SUV 265/45 R21</Title>
+    <TireSectionWidth>265</TireSectionWidth>
+    <TireAspectRatio>45</TireAspectRatio>
+    <RimDiameter>21</RimDiameter>
+    <Quantity>за 1 шт.</Quantity>
+    <Price>9800</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2024</TireYear>
+    <ResidualTread>8</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>1</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Michelin Pilot Sport 4 SUV 108W
+🔧Характеристики:
+🔘 Марка шины: Michelin
+🔘 Модель: Pilot Sport 4 SUV
+🔘 Размеры: 265/45 R21
+🔘 Доступное количество: 1 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): 1 шт
+🔘 Протектор: 7.5 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+⭐ Более 3 700 000 ₽ продаж на Авито — нам доверяют тысячи покупателей по всему Уралу.
+
+Арт. GYB537921</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/19f30f955bf1e6252cb5d00cb6b3d41ab3c6adb0ac3581b6ef72e0578e229541/6a437316/gyGbczXfRSV-1hy8H9ehI7ii1QZBY3hEXBrnUmSWh9lxezxNB2IAqpxr8WkUxO3-V_3DRkV3ccCF7VXZCmGI5w%3D%3D?uid=0&amp;filename=1.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=250603&amp;hid=137c7f6dc74683e70f6acf59c7fc80b9&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=9d432746453f47cbd2c1fdbce80ae7fe"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/58b6186716296c645bfbd46a22f68e751f607e20ae27aa94daf698c74bc24a41/6a437316/gyGbczXfRSV-1hy8H9ehI7W3yhIywaKJpEtk1iTC4qCLP0fv81m3svy7pHLKG6qR__61AaJdOngdAGqb48uetA%3D%3D?uid=0&amp;filename=2.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=305407&amp;hid=5bac977393da8c88b6c25f024edc6312&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=36c0c5a8ab68b6d5ed7ec5f8d1e69105"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/1eb9c1b075c9000c5eac23fa60c20e3f98735d8e0ffc32c3e0475289d33828d1/6a437316/gyGbczXfRSV-1hy8H9ehI8CEFRPT8Xv3K4C5JDcFMfQ1YnGgGqcFe22jHI8109RWp9BQQ543bZGeiBpuw-0ldg%3D%3D?uid=0&amp;filename=2nl01hl1fi.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=405677&amp;hid=a01fef09324a750535e94936d7cee9e4&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=ad0322de5ead1d978be6f949e710f46e"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/1e8f698bbd148ce676a043edc42afa1b36a66c1dfa555ab45429743cfb1ca1eb/6a437316/gyGbczXfRSV-1hy8H9ehIzkbkdb63lfM52D2wQOC__EZeoFLNEk1AHCDCqxERTypH9tWSh6kjkxYZXkiuY0B-w%3D%3D?uid=0&amp;filename=9gr1plxvke.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=319581&amp;hid=8bbb778866a6526bb8791b998e08e614&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=97d728ab1245d48990912485763f7482"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/b638bedef61c73bfa9ec535ac029648a25e548fc555125a2d16dc8686e045295/6a437316/gyGbczXfRSV-1hy8H9ehI5aBeGrV6AMtaNWvz8bZt22mXPOoF9O-2ipa9VyeVC5AofHqisAhj05j5DTgq_GiOQ%3D%3D?uid=0&amp;filename=e1rf93bs37.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=306105&amp;hid=40da8604214ffcc87d55e9c8c2cbbaa8&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=7e6c4a87bc9b97b41cbb8f04933f3be2"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/650beffb86952b0b464b39c9225730fd3e1d7b1b9c4c479a7b0f4e9d46debac6/6a437316/gyGbczXfRSV-1hy8H9ehI3ctnj_Iw46IV4F_GeKpV_DDac3usK4IgxMFxXs3o2Gg-7TWzwCxjkAHp5DMzDmx5A%3D%3D?uid=0&amp;filename=lcp31mcz4s.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=303307&amp;hid=9960da537090b859554ca02824629b99&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=c182641f8df5ae562e72ea9869fa4502"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/b1ec2332a1f0aefa011662db80ffe9f003b90e69d5eac6cb907d2bd43597ecff/6a437316/gyGbczXfRSV-1hy8H9ehIzy8h-pB_0woJV_IQCsnwJMfmDmLRfAI5hKnVH7h9Xn0dGCC2dFGhki1bHQv1vFY1w%3D%3D?uid=0&amp;filename=ntqaq6jyqy.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=234630&amp;hid=5e053a18ef12f6702c31fc31067699b1&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=57e145dc01dcdb2d1fc88feb6372fd82"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/9ddf3548d8f4b40a613610dd95114d5ab44985b0a18eab3fdc80ee7fb216cedb/6a437316/gyGbczXfRSV-1hy8H9ehI5yymvQtKJ3TWl895cEkHtcOQCJ31aBbV5D369N4w7_nkZeE3V5YESQ__uOr6w7AoQ%3D%3D?uid=0&amp;filename=p90o297yhh.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=289201&amp;hid=a4418e6c7958c6e509646a615c337356&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=ce6b21669f0ac472029cb49ff10b7a96"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/62a5a9a6ce34b30b708801fa2711ea6f831a6d6efe8aee93b9da32e56d4f1159/6a437316/gyGbczXfRSV-1hy8H9ehI0BqFhoC6KFtg6UGWh-w59i3p8ZciG4veyYz6Pq8-jXjQ7VwuuvKsgBFboXCbtCSeA%3D%3D?uid=0&amp;filename=ppjats0ejs.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=215350&amp;hid=b67c655452270dd5a848dce072a067c2&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=7991c9a126674e15b9898b627018b3cf"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/4132fb637159cbb9e368b5ab19b7d7907ea55669d09f29686efe7a34cf91ff67/6a437316/gyGbczXfRSV-1hy8H9ehI8F37mDaeH5-yJ--FJK8SDg-c_gYzRciU0St_O3LUoWD9G9AOghgu8SJGfwDB379SQ%3D%3D?uid=0&amp;filename=xh0ten6hsn.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=225595&amp;hid=b060f3624e24264ec95df48e854abe9a&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=188db71c6fdaf9f2addf41e888616508"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>PPM575839</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Michelin</Brand>
+    <Model>Pilot Sport 4 S</Model>
+    <Title>Michelin Pilot Sport 4 S 275/35 R21</Title>
+    <TireSectionWidth>275</TireSectionWidth>
+    <TireAspectRatio>35</TireAspectRatio>
+    <RimDiameter>21</RimDiameter>
+    <Quantity>за 1 шт.</Quantity>
+    <Price>7000</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>5</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Michelin Pilot Sport 4 S 101Y
+🔧Характеристики:
+🔘 Марка шины: Michelin
+🔘 Модель: Pilot Sport 4 S
+🔘 Размеры: 275/35 R21
+🔘 Доступное количество: 1 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 5 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+🚘 Подберём шины под вашу машину бесплатно! Напишите модель авто — скажем, подойдут ли эти шины.
+
+Арт. PPM575839</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/717ce02f897e6a40d6b9760789dd6f99c64c489700a0baa31dae2f64dd84bbe4/6a43645c/gyGbczXfRSV-1hy8H9ehI1SAh4LBsy5W2-MeFh-RCLXILKuF0lZTaQMxRjomiXLzrkycXN5ao5AxkrLc5czq2Q%3D%3D?uid=0&amp;filename=1.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=266440&amp;hid=2c5bb2b24a4e3e911b2df923eb12c07a&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=4048455ede6dd74833cb7730caa8d2f2"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/08dd7ce011386cc8dd8f4eba6c7b825087ba69dcfb9b2eafddf0ad12e03d4169/6a43645c/gyGbczXfRSV-1hy8H9ehI5NviN4HtdQcE2OU-QhtEdp-jxcv3DUQ6HsekoaiVLla4ZTIPhKaKKcuHJpkLY1kow%3D%3D?uid=0&amp;filename=2.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=325593&amp;hid=b5ef17ee6c9b9ac92633c84bb3831d9d&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=7f520d83291701a4e05148cccb8922a4"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/771efc64ca8ac9ac99575e3135b26dfbf63d8a92948d11d2e170b90d367acccc/6a43645c/gyGbczXfRSV-1hy8H9ehI86CQ90O4kjKIdibDfvKr6eL6XRASvJNpfMpEQoL7vXv7OKfX7MYgaJQcErmiZTwsA%3D%3D?uid=0&amp;filename=4.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=179551&amp;hid=133bb9db092927ec5d03543eeddea881&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=1b540ce1a9887160e166b8597ac74577"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/9211d09fdae9996691623fd4cbb9d9a30686e5d6834983ee74c9c32c7b95d9ab/6a43645c/gyGbczXfRSV-1hy8H9ehI-IphP52DF0F6v2y_mNCUhKqdiJIyQI1g7tGFPh2nri15PXGvfVLbrzp3mVJ-y0F_Q%3D%3D?uid=0&amp;filename=5.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=143058&amp;hid=2bcf9e18dd8f9a830e6f6e9036ac7027&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=41a3a7fcf67afd4d9895c13027cc3fbc"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/376032e6ff3fd7b57e8eb2d53c7ea737fab3d96708450c3ac4b15e107eec1633/6a43645c/gyGbczXfRSV-1hy8H9ehI2SEKSGoCd9yZacezOcECUuZgAxvrQAROxXKE5myYnLnAA9fvCUkSuCmbOY3Jy_EqA%3D%3D?uid=0&amp;filename=d2vuckwtnq.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=217635&amp;hid=a2e068ef5df3435f702c6d16dae27de5&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=403721ce056dad7e29113e0d9dd73642"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/f5898d6e851c21a82947e3429a24c2e7585ce951cb64552f3ddd2cdd0cea5411/6a43645c/gyGbczXfRSV-1hy8H9ehI-GEjS-GK1VHLKDDuC2ech-KVQb1MH7Kbd5VR6-0CsNXvVVX8neLxChyMiq_9Aq45A%3D%3D?uid=0&amp;filename=dad2oqcosn.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=152973&amp;hid=0967b215c8fff1e8c88cf47f440ab9d3&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=e04f0580aa856471e142041a0daaf2ac"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/5fabf606de2b31b80a4ff2e1b5f1cdc38318c46ec61099d0aec5d9ef8add58e9/6a43645c/gyGbczXfRSV-1hy8H9ehIxz_fvZ45tpGa8JHD7h4SOUw_6FnpHvt0zlPHc_Va73lc_uu12faPZA8O_ySe8ChmA%3D%3D?uid=0&amp;filename=glbayngr9m.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=160478&amp;hid=0fc116f30ce372f7666e41b9d6a1d20f&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=118e26e20697592db8f9da798f514cb6"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/30644105868c38569cad1b44f47a761d5786ed04526bb20f3efcb3b20b06ae65/6a43645c/gyGbczXfRSV-1hy8H9ehI9521ChD_ce4e4k9B1B6h1eTEcLQPx6hqxcd39r8sZDAxpBYWCPdns4s52J0CLSGOg%3D%3D?uid=0&amp;filename=lqvgi8rgzf.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=132414&amp;hid=a7f430f2a87874ffcdb8ad263b23d6a2&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=8dbf5edead20ad00545b9d2a0218562c"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/09f7b63b1d16d3a69a687811e2c0edb203416c04cb898f460d279f0385948a26/6a43645c/gyGbczXfRSV-1hy8H9ehI1BrzpRTqPeZorGy9K3JfoadVoZTHjReLWkkjIVt-6OIXrMXt6Z2f4e9wHJ9X07j3w%3D%3D?uid=0&amp;filename=tqkw4y9mo2.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=154193&amp;hid=0cbc5493243730c3d9960e926c32a9c6&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=31cb2f0cf8a0517f5cad5550323db022"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/a264ab2398fcd8ba102fbc106fa18651cfb3e92fc8b7c408b59d6597cc839d0a/6a43645c/gyGbczXfRSV-1hy8H9ehI0yAuXsR25j1dpTzrlb48W_wPpBvD5PrFqbvXDcNwrzMPBa6nYifhKmlTmYfz3OVEw%3D%3D?uid=0&amp;filename=ts5y39ejly.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=130117&amp;hid=5359bb47f30e603cdce474d119a23c22&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=ad8adbf164060e7073e199c50e3dd1b1"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>ONO469975</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Continental</Brand>
+    <Model>PremiumContact 6 SSR</Model>
+    <Title>Continental PremiumContact 6 SSR 275/40 R21</Title>
+    <TireSectionWidth>275</TireSectionWidth>
+    <TireAspectRatio>40</TireAspectRatio>
+    <RimDiameter>21</RimDiameter>
+    <Quantity>за 2 шт.</Quantity>
+    <Price>7000</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>5</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Continental PremiumContact 6 SSR 107Y
+🔧Характеристики:
+🔘 Марка шины: Continental
+🔘 Модель: PremiumContact 6 SSR
+🔘 Размеры: 275/40 R21
+🔘 Доступное количество: 2 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 5 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📋 Доступные варианты:
+• 1 шт — 7 000 ₽ (протектор: 5 мм)
+• 1 шт — 2 100 ₽ (протектор: 4 мм)
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+⭐ Более 3 700 000 ₽ продаж на Авито — нам доверяют тысячи покупателей по всему Уралу.
+
+Арт. ONO469975</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/a8b0bdf41ad143776ef4e4e00f17ee330644f9416c44fff1205624f844eb01b3/6a43647c/gyGbczXfRSV-1hy8H9ehIwsfyX5UUZnLVintTN1FHKld5xuSHs998DrI9ZXRZ13x8EvwLQclq8CbW_uqfhI9Kw%3D%3D?uid=0&amp;filename=ce6fq21xts.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=223855&amp;hid=2edab4357a8cb4525f60bf1691fedea2&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=b941eb99af678f8e4ea77c4a39bfc0db"></Image>
     </Images>
   </Ad>
   <Ad>
@@ -89965,6 +91154,67 @@
       <Image url="https://downloader.disk.yandex.ru/disk/131ce941c8ea12da7e9541a6e6a2bdb6fdb759afc31611c38ea0b6306bfd4ab1/6a437317/gyGbczXfRSV-1hy8H9ehIxcC32cb9MW37lpjxn8P1--TV2kvrg7DtD37FnJ1xvv574PSs8TxGp9_kGdV8U2rGQ%3D%3D?uid=0&amp;filename=jk3hyhlhev.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=246051&amp;hid=5e405f0c59be57e8eb64518325aa4203&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=2e6eee3ae4d26be9d07208d1b8f6299b"></Image>
       <Image url="https://downloader.disk.yandex.ru/disk/8df6d401d1baf2aed3ecfbc36e02d4ecb6456088351d630434acefe201cc6d8b/6a437317/gyGbczXfRSV-1hy8H9ehI-907Y_DZowfZjp2HJNOaaYXqxA4ZvxkfWJfyXSBezsaCzztCKiY_pSd18QJociRXA%3D%3D?uid=0&amp;filename=jura91cu86.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=411727&amp;hid=0b8f298557d1a0cb34148fc0ff8af340&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=b3530372a179308d96913eb811759a5e"></Image>
       <Image url="https://downloader.disk.yandex.ru/disk/7b0635e7688e77da71dcb12ac513fb9b77f8cc0e7f02eaa89c715a09429d0dbe/6a437317/gyGbczXfRSV-1hy8H9ehI7NfKJOxRdEqv9sllvsErHTT530uM8UZYVOa6excfTzNL8laXye8pRLKcOmMcJIOFw%3D%3D?uid=0&amp;filename=tw5260zd2n.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=248418&amp;hid=3ecd69ba5bd1c10b4a202185fa8e73c6&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=8e0769ed834dc1a94d83d1ac4c12b5c0"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>ZCP254557</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Nokian Tyres</Brand>
+    <Model>Hakka Black 2 SUV</Model>
+    <Title>Nokian Tyres Hakka Black 2 SUV 275/45 R21</Title>
+    <TireSectionWidth>275</TireSectionWidth>
+    <TireAspectRatio>45</TireAspectRatio>
+    <RimDiameter>21</RimDiameter>
+    <Quantity>за 2 шт.</Quantity>
+    <Price>11200</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2020</TireYear>
+    <ResidualTread>4</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Nokian Tyres Hakka Black 2 SUV 101Y
+🔧Характеристики:
+🔘 Марка шины: Nokian Tyres
+🔘 Модель: Hakka Black 2 SUV
+🔘 Размеры: 275/45 R21
+🔘 Доступное количество: 2 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 4 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+💡 Ищете надёжный комплект по разумной цене? У нас сотни позиций — найдём под любой автомобиль и бюджет.
+
+Арт. ZCP254557</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/4da3379cc47fcfa8020d0c42567b2bc33e7e8cce3a64c1bee682aee775457383/6a43646c/gyGbczXfRSV-1hy8H9ehI-gqbkq0Z__zfgXuf5b9E4gKf4jx32ZrkP3XjFmqsmHrb07TCr7Ccgr5YN8eXWagPA%3D%3D?uid=0&amp;filename=1.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=204843&amp;hid=b861a2826c7bf01c2dae7d30eb767058&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=eb0dc72654f7824ca57d4a637ef79aee"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/f6181ded4d161ee7014348ef92374b71a7185e91bd0a2def183c3ed3cad7f354/6a43646c/gyGbczXfRSV-1hy8H9ehI_INc57S0JY9JnkOnt2-gC12-9wqK2Dpb3Va88BwXXur-IIDLmhS2HnhM93xmj0-lw%3D%3D?uid=0&amp;filename=2.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=347075&amp;hid=e2cc5744917d6097d2b82599369b6929&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=c1c4a29917cab1aa3a95091aab2b1009"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/3959996c591181b53b870d8668c975adaec2e088c33a616f5a2a63352fcae9e4/6a43646c/gyGbczXfRSV-1hy8H9ehI22dmpptKdLlaDgdmMC0VhF0Y3l4GKOHfDyvqZ1_iKd4y1_s27c5Dtus3FbX0ARycw%3D%3D?uid=0&amp;filename=lwg2fe93gg.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=352918&amp;hid=afe9094a7e861d9582b1545ec0a0e9a3&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=36c42091881a283076d60c02f45ef24c"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/73c86b48e5b7cbef5fb6d0b50d29b400fd0330da8e164ae96107b15f4f47f277/6a43646c/gyGbczXfRSV-1hy8H9ehI-iy70mL2HdfoQz--dObZija9_QIsagHWlrM0ln04bHp4zHKHnmEpN2dO9uDdkhLPA%3D%3D?uid=0&amp;filename=mrub7jgoa7.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=251647&amp;hid=5dbb5c09d12756afb8e3fa0d4199daeb&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=5907f6c8a8dc820b0f43bd6c913c8031"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/7a97c18928f2c2efc41940fa4c1dded67b1ee29292338ac31c95f5ea7d5ab8e7/6a43646c/gyGbczXfRSV-1hy8H9ehI2_2FK51qAtf1dTzb0wUXmvMggK_vd4gws9NjPyS9JfXvLjTlfEwrUrZzUFunE8aUw%3D%3D?uid=0&amp;filename=mz4tdp0icn.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=281106&amp;hid=f4912ffed8fa9263e3353149bf3e9e5c&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=1695c78b5561aca8f8aa68c32112a2f6"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/6859e3fc5b4a9d8a0758eaa9b7506850fe45cdeb4547d1240517ef1dfa2c13de/6a43646c/gyGbczXfRSV-1hy8H9ehI6VbFm2wa7XTpxK17lWYetC5G_2H4nnvDafRIsNcof3j58fpx904BiWeMmtgdvmCVA%3D%3D?uid=0&amp;filename=ve3zzouo5i.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=325813&amp;hid=abf34c8bc73668d7d1b6626faffc5fe3&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=d7a59ccf7dd0bf30679d718b8a875013"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/de759fc9507bde3099f719430a47a7cd985e29bb5f7b95aad4c6351e0bee094c/6a43646c/gyGbczXfRSV-1hy8H9ehIwV2SlQWRDnmSU9RyjWSD-3lbSnU12IWaVShbOWZAbfwnRSD0YGNNX_BtznNXhJrmA%3D%3D?uid=0&amp;filename=vy9ozaj7en.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=274177&amp;hid=c46a8922314be96e3f14668532568324&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=c8a92116e8bf5ca4e0f8781934be38b2"></Image>
     </Images>
   </Ad>
   <Ad>
@@ -90174,6 +91424,192 @@
     </Images>
   </Ad>
   <Ad>
+    <Id>QIU674616</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Continental</Brand>
+    <Model>ContiSportContact 5</Model>
+    <Title>Continental ContiSportContact 5 275/45 R21</Title>
+    <TireSectionWidth>275</TireSectionWidth>
+    <TireAspectRatio>45</TireAspectRatio>
+    <RimDiameter>21</RimDiameter>
+    <Quantity>за 1 шт.</Quantity>
+    <Price>9800</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>6</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>1</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Continental ContiSportContact 5 101Y
+🔧Характеристики:
+🔘 Марка шины: Continental
+🔘 Модель: ContiSportContact 5
+🔘 Размеры: 275/45 R21
+🔘 Доступное количество: 1 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): 1 шт
+🔘 Протектор: 6 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+⭐ Более 3 700 000 ₽ продаж на Авито — нам доверяют тысячи покупателей по всему Уралу.
+
+Арт. QIU674616</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/8e6d92ac3ba1a3bccfc5b41c0b0dfb070c4238ec7ace65b8546e3f0572daa559/6a4364ae/gyGbczXfRSV-1hy8H9ehI0W4gOGG_UXwHKql7-T-lTucTxA7eDLatOeidVImq1VfQ_SgS2VRycrTBQUSQdvM6Q%3D%3D?uid=0&amp;filename=1.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=215464&amp;hid=625d04dd5a620510d94eeff9487de9a3&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=a18211cf6c6f91e1da1404400a53b9c8"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/21544b98ac99f22cd10b47d5971df22441a1b8958ee9b11f5592242b417a6bc1/6a4364ae/gyGbczXfRSV-1hy8H9ehI9cvC5-ooxfS8Sm5VlVaMQ5wY-DxAyDbR0CnugmOqMXFFTP6bM0LUMx1dk0jEXnx7g%3D%3D?uid=0&amp;filename=2.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=254586&amp;hid=d7d91be90f459272b00b7dd77eeb18bc&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=0aa74c2f793966e1998f2d1a06adf335"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/99bfc588d7b78b786a70f30e9d34a547f2ad92610883ae65d578788af715618f/6a4364ae/gyGbczXfRSV-1hy8H9ehI3oV7euvXSCwGt9wpIKVE591GKyQmgQSCLJFu_RmLSbVNUymnzf_tuaEt0B3CZK7Mg%3D%3D?uid=0&amp;filename=3qzx77x34i.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=271370&amp;hid=ffff0a267196bd376ad34f0bab4c8b2b&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=d59e47de3df71ab2d45512e5356350cf"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/e512749564f6c0d286d3b9d0beaedb205f2dea21f7f216830fd60853560cd434/6a4364ae/gyGbczXfRSV-1hy8H9ehI7GGqFN-Pug33rnjDXDb1uf5ZJvNnKdVol1oIIky9pc4E7K54UCjgH144BgvjdVaHQ%3D%3D?uid=0&amp;filename=60hpzahs02.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=229977&amp;hid=340f7c80571aa87f179116f56fdde0aa&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=54bf3139d1c1c9325ab8e2aa7968a559"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/3f65fe7b88bb5e1ce39855be5da0e8abd49d44b61b8ada83b46ac716eedb1bd8/6a4364ae/gyGbczXfRSV-1hy8H9ehI_JrPx5Wlxpncnms-_UF3qL6qSNYl_AV5uP36E2gh0DFW2DVZb4L_tASpZmh7WCbLw%3D%3D?uid=0&amp;filename=8q93bdwvdg.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=266289&amp;hid=d33b76068a569206a24b80a5e339753e&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=0ede495cf3c507236a00864af653ab13"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/5b99bcc8895f14311a984752db18c38770098a672f96427079b3b5fa71804736/6a4364ae/gyGbczXfRSV-1hy8H9ehI7SGVtrm9nKTqOEbr7Tj0lddCPc2pNRGk1oyTJZlHdt12gwJvAxpErM3Ti1130J26A%3D%3D?uid=0&amp;filename=bl1bkhm2pb.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=208617&amp;hid=794aa40eafa508b03b2c5a4c97efe2c3&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=fe95267ed8e6342a41ff5626365e803e"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/feb15f554981f218abaf62cff7bf5f5df9697c5c044b7246a81c5d99e9fa1781/6a4364ae/gyGbczXfRSV-1hy8H9ehIwiRgkTcYWRkiPXn2in2dA-zRKWPYyqHe0TsBY3IHm7-33DBWTM_n1MyPvgilYnuwQ%3D%3D?uid=0&amp;filename=etsg055dqx.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=245766&amp;hid=b558523af59ea4e091fd74938aead2f5&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=9ae710f7c7c481d29bd1c2872f4252f2"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/df97c90df85366151a15336f185558929d37c8337f243397fc91b42e91e161f1/6a4364ae/gyGbczXfRSV-1hy8H9ehIzk6nDXKzNEQZf880Tz3bve78-YpLWbdqRY7c8PRjZLdd-oB_6OnAPMT3Tr7wT8XKw%3D%3D?uid=0&amp;filename=fap8b72ebw.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=182585&amp;hid=a0fc13fc17440ea4ef8b972c6a4d7b76&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=fe132bd9e35b9d7f7dd8484b08a2f880"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/3f64a6bba0356c9812ca5775ebbc93c524b2398a6149b6fd3433d02ee1db2831/6a4364ae/gyGbczXfRSV-1hy8H9ehIx4VIFkUcOiZLGp9janaTMdagJwCMIsimhYR6m4h1Y3xXwv_RwOI_nXRuvU38ep4zQ%3D%3D?uid=0&amp;filename=ivuvvmd00b.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=201280&amp;hid=4c9e200f2613d93ef872490c47f22172&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=b42323fcbab65110b80ce91af0ed0aa2"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/219fcc3bf98c2f8f26053c683779eb112eccbfe576a656b5961b3f9478fd2708/6a4364ae/gyGbczXfRSV-1hy8H9ehI1CasbcxA4i1ldjIae7vf_KX-btw96rop8m0KuIciRbws911YPq-L_9IrzjETvHyKw%3D%3D?uid=0&amp;filename=jcngp5asrm.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=231699&amp;hid=51a9854271d3b87b87bfc7789cffcef2&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=29c2870800c3c9eaed099ef2cda0ce22"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>STW034134</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Nokian Tyres</Brand>
+    <Model>Hakka Black 2 SUV</Model>
+    <Title>Nokian Tyres Hakka Black 2 SUV 275/50 R21</Title>
+    <TireSectionWidth>275</TireSectionWidth>
+    <TireAspectRatio>50</TireAspectRatio>
+    <RimDiameter>21</RimDiameter>
+    <Quantity>за 2 шт.</Quantity>
+    <Price>21000</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>6</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Nokian Tyres Hakka Black 2 SUV 101Y
+🔧Характеристики:
+🔘 Марка шины: Nokian Tyres
+🔘 Модель: Hakka Black 2 SUV
+🔘 Размеры: 275/50 R21
+🔘 Доступное количество: 2 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 6 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+📸 Хотите больше фото или видео? Пишите в чат — пришлём дополнительные материалы в течение нескольких минут.
+
+Арт. STW034134</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/21e84c570311884e0280a9880cc23fa20b47a1c97f8c57272cde2a93861e7806/6a4364e4/gyGbczXfRSV-1hy8H9ehIyeZm87wainNFnRtkf3fp2AiEHn_VYTdskJaq0lvq0_9_aXhr5n186Yw5xYFtE4MoA%3D%3D?uid=0&amp;filename=1.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=240878&amp;hid=1dc8a82a12c1bbac61b3fb2151f11e39&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=c7db5327aac66f03fdbfcbc6bae41335"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/3ac002ce107db52706ffe69240f8280d739fec17dd5038338c556569af532c2c/6a4364e4/gyGbczXfRSV-1hy8H9ehI-JbwymL_GGSXbhmi36ulavzwWlRjBREXYCO7yOWASBg9Q_MPKXidNz5B2MtQQAYxA%3D%3D?uid=0&amp;filename=2.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=278655&amp;hid=2121928e9314feced15aa04d1d1f0349&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=a2c12e3b08ebc98e8a480a1a50c3d876"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/5ba0f22552cf61d2902cbfdb0cf7e72a5ac3e1b4c9d4df660e8d2e4543a28d97/6a4364e4/gyGbczXfRSV-1hy8H9ehI8-gWav_kV8DMgUsChgX4XugWB5PefvyQGvx2xCuGIS9VRQVXrA31qcl6H_ETvYvkg%3D%3D?uid=0&amp;filename=3.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=327726&amp;hid=0dc0417826574c2c433c384f61ac00fa&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=54e8345dcb4c82856c8836ef300be730"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/373dcbbb036e4322be467e67ef2399a784d0a10a2bf9938a847999e8cba0ae3f/6a4364e4/gyGbczXfRSV-1hy8H9ehI_uzBbJSKpM2hO_g5zcnp9w9VbZEJ1Mhj4bGp4ARgv-9R5VgaV1a3LQZPjFkwi4_6w%3D%3D?uid=0&amp;filename=at9tehtpvl.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=302430&amp;hid=bdc04cea1d5d37f26ff84452e366813c&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=8ddf73e4a9fba4bc499938ccf653f03c"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/4b4289a1956ed5773c4e6f5e4267c10d4139eb64e4bd55fbea44d878a321c471/6a4364e4/gyGbczXfRSV-1hy8H9ehI_abBYsRnasvwDdSvWORE60dnda65cQwpTXqTBBve7U0Xu5_r2ys-Y5WZY7lokSf0Q%3D%3D?uid=0&amp;filename=kk0yfqsjxr.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=285174&amp;hid=88b2723d3497fae636941805a8d314f3&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=c1c09f06437abb055d255f952636a2fc"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/d5f212616a6698edd1c8cc7e9e45427373102fa6cdbd0df5db735bfbe1263c26/6a4364e4/gyGbczXfRSV-1hy8H9ehI4QSPSqdN9PZqHBCiQssaVjjn3uBENQQ86PwkPzdU0asdz7zonId6k8NKcltGEGsBQ%3D%3D?uid=0&amp;filename=pacqu86udj.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=384032&amp;hid=5a2dccdbae2a530459609fd5b52002b6&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=2f74fbebcf9ec9c6f810c6db5b525bdd"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/d1bafa41dd93d4c2304fcc86e43ff98f0894dfa851719c3948a36aaf674b2c4f/6a4364e4/gyGbczXfRSV-1hy8H9ehI5f8Hj73EwTa6s5_LlaAI-YsBaijoAZC6pJFu59rjsm7-8EmZVq8HF9SnWwheNg0SA%3D%3D?uid=0&amp;filename=tatu95q6i9.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=292431&amp;hid=7a5e8787c17f277793fe97e3a65acbb0&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=ceb1afee1b846dcf31c7556efa528694"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/9da8f446ce9e1587f68bf209b7726becff0dc41472363957d75938ff609e7576/6a4364e4/gyGbczXfRSV-1hy8H9ehI0f-e9ZDVVecXUsQZiZJ7IgWsTLunc5mR9huBzq38cZfTfkvDjN_uVlUYYUQ0etN8w%3D%3D?uid=0&amp;filename=u8lsa46omq.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=281145&amp;hid=925aa9bc8a49d60e5bd83cfd465cb06d&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=738ed37619d7f4e6dde2e91419b924b0"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/326ffb8f7f4e6afb0e8f662793dcb7784315b11b07ac9f6bba01330d67183e89/6a4364e4/gyGbczXfRSV-1hy8H9ehI_VjhZCQCBBPtVR3fNwJTG_euRn36ILeviK8SYS5B5RDWavivtuMhKP1_oT-jCRL6w%3D%3D?uid=0&amp;filename=xnoac0dw85.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=390922&amp;hid=7c22e277b6f82599fe5acd9514233ce7&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=9bf718ffe5f8dcb251fa2eed341cef8e"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>QBK471068</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Dunlop</Brand>
+    <Model>Grandtrek PT3A</Model>
+    <Title>Dunlop Grandtrek PT3A 275/50 R20</Title>
+    <TireSectionWidth>275</TireSectionWidth>
+    <TireAspectRatio>50</TireAspectRatio>
+    <RimDiameter>20</RimDiameter>
+    <Quantity>за 3 шт.</Quantity>
+    <Price>18200</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>7</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Dunlop Grandtrek PT3A 113V
+🔧Характеристики:
+🔘 Марка шины: Dunlop
+🔘 Модель: Grandtrek PT3A
+🔘 Размеры: 275/50 R20
+🔘 Доступное количество: 3 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 7 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📋 Доступные варианты:
+• 2 шт — 18 200 ₽ (протектор: 7 мм)
+• 1 шт — 10 500 ₽ (протектор: 7 мм)
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+🎯 Нужен конкретный размер? Напишите — возможно, он есть в наличии, даже если не выставлен в объявлении.
+
+Арт. QBK471068</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/8bdbd5be0f7ce49fd7930aeb081fec520212b6408268ab1aa7e1819e65e2af0a/6a437333/gyGbczXfRSV-1hy8H9ehI-1PHcPqr8vzcnR1qvWPNmJP-HudNGte1XljEheBf0EDzwfjGiqI88IeGBO-a9rEUQ%3D%3D?uid=0&amp;filename=pb3yuh7g89.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=314474&amp;hid=53d7d8995be789060f8a6338f7bbc5fb&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=5ab2a289f3bb308ca6440f6612610beb"></Image>
+    </Images>
+  </Ad>
+  <Ad>
     <Id>BMH741353</Id>
     <DateBegin>2026-06-30 00:00</DateBegin>
     <Address>Екатеринбург, улица Чапаева, 7к1</Address>
@@ -90235,6 +91671,61 @@
       <Image url="https://downloader.disk.yandex.ru/disk/024edeb74ac2b2ca2ecb5dc5898e133501c28698f0fd3dc468623d75eb248b46/6a436452/gyGbczXfRSV-1hy8H9ehIzVkli7SBJQW2ITIf2LNQi9BU9M2-wwzqp9-VUGO0HJjnw2wJeXFs2rywCIzU-pXpA%3D%3D?uid=0&amp;filename=htbqx900bi.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=221582&amp;hid=2a45011855dae1cd106560691ad0fb7f&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=92d6fa37774cc589f2810d92d48b383b"></Image>
       <Image url="https://downloader.disk.yandex.ru/disk/9c56938ffdf43c53f4d235a9529af6442d886c707c6a3d366ec57d8536d6f9c8/6a436452/gyGbczXfRSV-1hy8H9ehI8P0bPLhREdWR2GikWVavzs3rAlhoqP921sQLZl-hIN1SLZThICVe5OslxCZJ0XJ2Q%3D%3D?uid=0&amp;filename=vdrdvovd6y.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=318910&amp;hid=9ced6268be2b209bcf68766c3302ed9b&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=1dfef2400f093e47ae2b993b9eda22de"></Image>
       <Image url="https://downloader.disk.yandex.ru/disk/f6fb30683f4ebb4a5ebb5ee9592dee4e3625b1df4762ee06d52bba3ca308256a/6a436452/gyGbczXfRSV-1hy8H9ehI9tzlocBNRZGoOEj0U5czBPzScxEveEL4cwZJPjhG-4NTOxkU46n8BuCoqNhtA6c2A%3D%3D?uid=0&amp;filename=vhnf0oe594.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=211003&amp;hid=74629bfbb17048ff35a00ce93548b0b8&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=b03eb5940725ca61381f364654e878ce"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>LLS500405</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Pirelli</Brand>
+    <Model>P Zero E Run Flat</Model>
+    <Title>Pirelli P Zero E Run Flat 285/35 R21</Title>
+    <TireSectionWidth>285</TireSectionWidth>
+    <TireAspectRatio>35</TireAspectRatio>
+    <RimDiameter>21</RimDiameter>
+    <Quantity>за 1 шт.</Quantity>
+    <Price>8400</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>6</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Pirelli P Zero E Run Flat 110W
+🔧Характеристики:
+🔘 Марка шины: Pirelli
+🔘 Модель: P Zero E Run Flat
+🔘 Размеры: 285/35 R21
+🔘 Доступное количество: 1 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 6 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+🔑 Б/у шины — это выгода без компромиссов по безопасности. Все комплекты проверены и готовы к установке.
+
+Арт. LLS500405</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/8505e53efb2f25e45da4f539a82fe5a99bf926acccb016af8ca1b0bbfde664a7/6a4364e5/gyGbczXfRSV-1hy8H9ehI1OfvD1piIhrQNz1x9P78e-aOHtvZCsk2kuOL_sTLWB5jdYiBiTR5tS2SB01kVu5cw%3D%3D?uid=0&amp;filename=8zkidtwwdr.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=159940&amp;hid=529445fbc7949ae1d7381b10aaeb64c1&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=b75701d944d3ea591a605745b473da6e"></Image>
     </Images>
   </Ad>
   <Ad>
@@ -90304,6 +91795,178 @@
     </Images>
   </Ad>
   <Ad>
+    <Id>ZVL191358</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Pirelli</Brand>
+    <Model>Scorpion Verde</Model>
+    <Title>Pirelli Scorpion Verde 285/40 R21</Title>
+    <TireSectionWidth>285</TireSectionWidth>
+    <TireAspectRatio>40</TireAspectRatio>
+    <RimDiameter>21</RimDiameter>
+    <Quantity>за 1 шт.</Quantity>
+    <Price>9800</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2023</TireYear>
+    <ResidualTread>8</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>1</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Pirelli Scorpion Verde 109Y
+🔧Характеристики:
+🔘 Марка шины: Pirelli
+🔘 Модель: Scorpion Verde
+🔘 Размеры: 285/40 R21
+🔘 Доступное количество: 1 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): 1 шт
+🔘 Протектор: 8 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+🚘 Подберём шины под вашу машину бесплатно! Напишите модель авто — скажем, подойдут ли эти шины.
+
+Арт. ZVL191358</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/51f5f07c3c7d87792ff38ac832b184831b008785bab0d0c21dfa916c1478953c/6a436478/gyGbczXfRSV-1hy8H9ehI4nhuM_qBNge0Lfjf7q8nQpDu_H7jIf1M-T7bswtcLwDmzmu6LYD597AXHjtLzhF0Q%3D%3D?uid=0&amp;filename=ch2vk5zlba.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=243259&amp;hid=f23faaefdc32109352fc7d42a53e10c3&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=c16d205029ca3787075007cf5e9cac90"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>MLF517045</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Pirelli</Brand>
+    <Model>P Zero PZ4</Model>
+    <Title>Pirelli P Zero PZ4 285/40 R21</Title>
+    <TireSectionWidth>285</TireSectionWidth>
+    <TireAspectRatio>40</TireAspectRatio>
+    <RimDiameter>21</RimDiameter>
+    <Quantity>за 1 шт.</Quantity>
+    <Price>11200</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>7</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>1</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Pirelli P Zero PZ4 109Y
+🔧Характеристики:
+🔘 Марка шины: Pirelli
+🔘 Модель: P Zero PZ4
+🔘 Размеры: 285/40 R21
+🔘 Доступное количество: 1 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): 1 шт
+🔘 Протектор: 7 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+💡 Ищете надёжный комплект по разумной цене? У нас сотни позиций — найдём под любой автомобиль и бюджет.
+
+Арт. MLF517045</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/fb1271207033bc2424b28eef694a444d0aabddd1d3994e511a4067d1e5057fc9/6a4364b1/gyGbczXfRSV-1hy8H9ehI_bMMNIWsLKbfkVdFwntJV3bvgdd7u_oWkRueKdmmaFkqYdlho9pZYZuLafWEAoAbA%3D%3D?uid=0&amp;filename=1.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=195036&amp;hid=58ee298f684627da67330b2e9e2cacda&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=e580b62628a09ca28c28a08da3bcecfc"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/183d6303d1b0ae4a5df9b46926b683725af619bce286417ed792a05e61ca165f/6a4364b1/gyGbczXfRSV-1hy8H9ehI3Tqebiw2U-xlnw5LcMHk3VeKiVkQS6Rx_bRC_TIJKLMTXll2kb_WmCn2KNAaG_qYQ%3D%3D?uid=0&amp;filename=2.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=208455&amp;hid=05bf28340ed24b04d96412304e5c3837&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=d4fdede6945f6a35eac27f81af55cca3"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/864cca4eef33995f9dcedf78106ff2489d8c6abe8cf7df66e9a0f2d4dcf72069/6a4364b1/gyGbczXfRSV-1hy8H9ehIyuUYckQfbMV0o0_9g3zHJr9LWRx1UOf85KnG43SaXjb0-KMwdeBlkvCjPhMKvYmXQ%3D%3D?uid=0&amp;filename=5.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=337466&amp;hid=62feab79797779e2bc26bb7c64104ed1&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=79c1de34f88862d48dcabcb46a81a59f"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/aa5fbc10698e08f046534bb0ef6da789a44f8ebb11a1de7f2b12e3e98c73d9cc/6a4364b1/gyGbczXfRSV-1hy8H9ehI3Srq3U7tQaDAS-JHURrjWLRRd8I_LYUUGfVmuy4aJSdbYjHeIWiWCpfKyEuoyEkBw%3D%3D?uid=0&amp;filename=6.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=283116&amp;hid=7fb03206472aa137b35490cfb1ec6b88&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=0b8899d5bdd9c2a1d8852d670051edf0"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/ffe34bb90dfee3fec6b091af6a4ed0c62cb32b6e6b57afb4dcf38d7ee1e20564/6a4364b1/gyGbczXfRSV-1hy8H9ehIytVxo-SAq6dDI8XYOPjLjPskmOYfYapHWBrm57PHVlzP8S051x2ghGNUhc1NC_GCg%3D%3D?uid=0&amp;filename=8axczoa7gs.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=252401&amp;hid=798e43fc5672b5c664f6c087fcd4ca13&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=bdbdbe75e48d82d0f52fc0ca875dfd45"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/e34cf765dfe31add609c1105be8dcdac86d07b3962022990831f2029868daeca/6a4364b1/gyGbczXfRSV-1hy8H9ehI_vWzJqgsSZw3PYidpdVy-mRvclXvjKsk4HVt0RXAgQVbRErwYTei-eMNRcHrS71rg%3D%3D?uid=0&amp;filename=olj4ys4hy3.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=236753&amp;hid=5c30b36a307154f437fc00df222add8c&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=47035b1e5a8ca0656cd52ee3edcfdd8c"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/0ccbf00b1ccfb0ca2f8f874f8e299eb5a385a6a6771394b8010b0a00654a447b/6a4364b1/gyGbczXfRSV-1hy8H9ehIxTtf71TWHSDf_nLL_fWFAJZpYZpeXbpvhCfq7xZOjAvGEq27kQI-l9NQGTJRiUYfg%3D%3D?uid=0&amp;filename=omvc278392.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=280428&amp;hid=ebd1fa21f615a502b160df3e98ee605e&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=710f6aabe706139f7e30466f35a97e4e"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/bb0619e2edb12bbddd648d5271c026a226a6ca93c178fb660e2a70ad4fa2e236/6a4364b1/gyGbczXfRSV-1hy8H9ehI0xXbfpwJFK6Ts5SaZYqehdr5o3U4TepF_HXXTtzFUn8aVJ7N9IE_MlHM18XIAooJg%3D%3D?uid=0&amp;filename=zpf5kaet7x.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=364985&amp;hid=2e124020dce78a94405d08bd643a2de8&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=e517955e3814ba09ac468fd950c6eef5"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>CAW728487</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Michelin</Brand>
+    <Model>Pilot Sport 4 SUV</Model>
+    <Title>Michelin Pilot Sport 4 SUV 285/45 R21</Title>
+    <TireSectionWidth>285</TireSectionWidth>
+    <TireAspectRatio>45</TireAspectRatio>
+    <RimDiameter>21</RimDiameter>
+    <Quantity>за 1 шт.</Quantity>
+    <Price>12600</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2023</TireYear>
+    <ResidualTread>6</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>1</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Michelin Pilot Sport 4 SUV 113Y
+🔧Характеристики:
+🔘 Марка шины: Michelin
+🔘 Модель: Pilot Sport 4 SUV
+🔘 Размеры: 285/45 R21
+🔘 Доступное количество: 1 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): 1 шт
+🔘 Протектор: 6 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+⭐ Более 3 700 000 ₽ продаж на Авито — нам доверяют тысячи покупателей по всему Уралу.
+
+Арт. CAW728487</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/06e3e83a54a14ecd4f754fbf042ef4d65f73504083513272fab1a8178eb74284/6a436445/gyGbczXfRSV-1hy8H9ehI0Z9kbcgda4FYe8JYLkaOSJfvDg7ciCozAPshb3opXTbvRKIHkAw__aRULO-9HF0Cg%3D%3D?uid=0&amp;filename=ng3y7c7o2i.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=270655&amp;hid=361a01870b6223c8aec12995e026085b&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=736a2d02d16693c927fec7346b6956e5"></Image>
+    </Images>
+  </Ad>
+  <Ad>
     <Id>CTH956817</Id>
     <DateBegin>2026-06-30 00:00</DateBegin>
     <Address>Екатеринбург, улица Чапаева, 7к1</Address>
@@ -90364,6 +92027,66 @@
       <Image url="https://downloader.disk.yandex.ru/disk/0a4cd492e0b209e18e64e166df094990916e15a710f188ef67603e81597adbef/6a436444/gyGbczXfRSV-1hy8H9ehI8i4tYi7b-n9PjEI6dRMgCWmveszaRcbghoFH3BRoPh7-W1JAPmhWxiPKdbXk0izbQ%3D%3D?uid=0&amp;filename=vp20tteonu.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=330556&amp;hid=ce1b2b9ab72f6e203feb73ebd59e0fcf&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=5b9dd6075e1c20cd47011aaf5aad3272"></Image>
       <Image url="https://downloader.disk.yandex.ru/disk/fe5760e0892a428d96c6542c006dd901a1a22e13c83385af90cd6e8d8970bdde/6a436444/gyGbczXfRSV-1hy8H9ehI8brg_XxK-qEeSKcoEUt62wY6nqgO6h5-2re7nj01jASduhYrLDZq2PRvzsxIdVQvg%3D%3D?uid=0&amp;filename=vzhf6qqmwm.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=354376&amp;hid=50bf1965134db1a20d5ed1195965f5be&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=987ade9944826f278d546e6833908937"></Image>
       <Image url="https://downloader.disk.yandex.ru/disk/26dffbfcdd33606b31682aeb7d0e1a6845aa5ca8617fae771bf8b5f7fa834f33/6a436444/gyGbczXfRSV-1hy8H9ehI8LDsgk0k453_VIzWxussTUTCuldoC_x95PWLj-dstKveF7dVArRQJc9Uq47RrAURw%3D%3D?uid=0&amp;filename=xvs5lb47ba.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=392182&amp;hid=504eace1a42e78dece104fba3b9e130f&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=ee576a9075c078a625b5b03e243843c1"></Image>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>EXM201392</Id>
+    <DateBegin>2026-06-30 00:00</DateBegin>
+    <Address>Екатеринбург, улица Чапаева, 7к1</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Б/у</Condition>
+    <FreeTireService>Нет</FreeTireService>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <ProductType>Легковые шины</ProductType>
+    <TireType>Летние</TireType>
+    <Brand>Michelin</Brand>
+    <Model>Latitude Sport</Model>
+    <Title>Michelin Latitude Sport 295/35 R21</Title>
+    <TireSectionWidth>295</TireSectionWidth>
+    <TireAspectRatio>35</TireAspectRatio>
+    <RimDiameter>21</RimDiameter>
+    <Quantity>за 1 шт.</Quantity>
+    <Price>4900</Price>
+    <RunFlat>Нет</RunFlat>
+    <DifferentWidthTires>Нет</DifferentWidthTires>
+    <TireYear>2022</TireYear>
+    <ResidualTread>4</ResidualTread>
+    <TireRuptureQuantity>Грыж нет</TireRuptureQuantity>
+    <TireSideRepairQuantity>Ремонтов нет</TireSideRepairQuantity>
+    <OtherDefects>Без дефектов</OtherDefects>
+    <Description>🔧 Подберём подходящий комплект под ваш авто! 13 лет опыта, гарантия 14 дней, оплата любым способом.
+
+🔧 Шины Michelin Latitude Sport 101Y
+🔧Характеристики:
+🔘 Марка шины: Michelin
+🔘 Модель: Latitude Sport
+🔘 Размеры: 295/35 R21
+🔘 Доступное количество: 1 шт
+🔘 Боковые ремонты (уточняйте в сообщениях точное состояние): нет
+🔘 Протектор: 4 мм
+📍 Склад: Екатеринбург, ул. Чапаева, 7к1
+
+📍 График работы каждый день с 10:00 до 20:00
+
+📦 Гарантия 14 дней.
+🚗 Доставка ТК по всей РФ.
+✅ Оплата любым способом — наличные, перевод, рассрочка или кредит.
+💳 Доступна рассрочка от Авито — купите сейчас, платите частями.
+📞 Звоните и пишите — подберём комплект под ваш авто за 5 минут!
+Пишите в чат — отправим дополнительно фото!
+
+🎯 Нужен конкретный размер? Напишите — возможно, он есть в наличии, даже если не выставлен в объявлении.
+
+Арт. EXM201392</Description>
+    <Images>
+      <Image url="https://downloader.disk.yandex.ru/disk/24e759f60da84a828769ab7e4230245346afebb9b02668a67bc78658d2f15664/6a436471/gyGbczXfRSV-1hy8H9ehI7iOVfCBdMnqBd2ZveMZE41_05RgxC7W97Rzs8sAK_oGmKJrRd3WgjrYO1e8DMoQvw%3D%3D?uid=0&amp;filename=1.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=265273&amp;hid=5bdcb917a60f089d27c38a73df68e549&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=c5225cd17190e6b53f2135171e002f64"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/e4caecbffa84327b5de2912b093ae89c9ae131610593c4bdbbc7fa87919a3220/6a436471/gyGbczXfRSV-1hy8H9ehI97X3sFqCjsshNq5SP3z3tjdKPOjJe4pvjk8Dtz92hi44wxnP3Sa1G2EzbS4AVCEsA%3D%3D?uid=0&amp;filename=hrc0bkzsc5.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=294099&amp;hid=9fc7637497378e5fc0930b2657774966&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=7bfb0da358f1d68a018a101e3e83db3b"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/4f52637bfb621d46eb1e8d89f119e3f23224012572d52a6aac01637a8186452e/6a436471/gyGbczXfRSV-1hy8H9ehI1tDE9JO9PGHJy53UIuCeq-w1L7OiJMDXxEUpEKYI_deJ2V6ugnuRYltv0FUKjkqGw%3D%3D?uid=0&amp;filename=rd09g3d4bk.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=316164&amp;hid=3f28d6d8b6723303608c25a171ed0255&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=c7aa75e139309e0e65dfc28685c8a142"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/05777528ebafae9deadc5df4ac09822800d48fb5ade99836879f8ddf94ec199b/6a436471/gyGbczXfRSV-1hy8H9ehIyzUxDqRNiHPtZjizaRHviernZ2QiqC5YdHyXeb1nYjF3ewZppV85Y_wRuKLN7ibaQ%3D%3D?uid=0&amp;filename=xd33yacrif.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=231576&amp;hid=e783a039d077fa7b36246cf43986a4af&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=737bccb63322b12cb0a1528d466fd28e"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/34eafad24031cbf1dd716fd3f2723053963490c46a463b87e56560bc5890ad75/6a436471/gyGbczXfRSV-1hy8H9ehIz7bFSOBoSis36UcVBa1juSK5lQ_Tmbf0B6x6U5usO4OTXRJFnxQ2LNUa1Xzph5Tdw%3D%3D?uid=0&amp;filename=xdkomt4q1c.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=250186&amp;hid=00cf500e4be6783a4def6cb69f88178a&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=9fdc4c15d67292ab08c6712cbf0d797c"></Image>
+      <Image url="https://downloader.disk.yandex.ru/disk/4e5a782c5b1f9a0ea752b7eb026f30869bef05ec7ca87a7c3eea85db345e93a4/6a436471/gyGbczXfRSV-1hy8H9ehI4emm-_lS9WpJr7gr0iWOOWmjaS1tbYRKiD6yy3c9gagt1E2kEbmMphXz8OK48vkdQ%3D%3D?uid=0&amp;filename=zcwnaes0bc.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=0&amp;fsize=303258&amp;hid=a453b663c0a2d2b1043f6c2ad77f664f&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=4c0f58b5113b59d3cffb494d57d1061c"></Image>
     </Images>
   </Ad>
   <Ad>
